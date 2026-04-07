@@ -548,43 +548,76 @@ PPT · 日历 · 代码审查<br/>
 
 ---
 
-# 极简架构
+# 架构一览
 
-<div style="font-size: 0.95rem; color: #666; margin: 0.5rem 0 2rem;">在你已经用的工具里，跟数字员工对话。</div>
+<div style="font-size: 0.9rem; color: #666; margin: 0.2rem 0 0.8rem;">一个常驻的服务，连接你的消息平台、AI 大脑和各种工具。</div>
 
-<div style="display: flex; align-items: center; justify-content: center; margin-top: 2.5rem;">
-<div style="display: flex; align-items: stretch; gap: 0;">
+<!-- 入口层 -->
+<div style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 0.5rem;">
+<span style="font-size: 0.65rem; padding: 0.25rem 0.6rem; background: #f0f9ff; border: 1px solid #bae6fd; border-radius: 6px; color: #0369a1;">飞书</span>
+<span style="font-size: 0.65rem; padding: 0.25rem 0.6rem; background: #f0f9ff; border: 1px solid #bae6fd; border-radius: 6px; color: #0369a1;">Slack</span>
+<span style="font-size: 0.65rem; padding: 0.25rem 0.6rem; background: #f0f9ff; border: 1px solid #bae6fd; border-radius: 6px; color: #0369a1;">微信</span>
+<span style="font-size: 0.65rem; padding: 0.25rem 0.6rem; background: #f0f9ff; border: 1px solid #bae6fd; border-radius: 6px; color: #0369a1;">WhatsApp</span>
+<span style="font-size: 0.65rem; padding: 0.25rem 0.6rem; background: #f0f9ff; border: 1px solid #bae6fd; border-radius: 6px; color: #0369a1;">Telegram</span>
+<span style="font-size: 0.65rem; padding: 0.25rem 0.6rem; background: #f0f9ff; border: 1px solid #bae6fd; border-radius: 6px; color: #0369a1;">Web</span>
+<span style="font-size: 0.65rem; padding: 0.25rem 0.6rem; background: #f0f9ff; border: 1px solid #bae6fd; border-radius: 6px; color: #0369a1;">更多…</span>
+</div>
+<div style="text-align: center; font-size: 0.65rem; color: #999; margin-bottom: 0.3rem;">消息入口 — 在你习惯的平台上对话</div>
+<div style="text-align: center; color: #ccc; font-size: 0.9rem;">↓</div>
 
-<div style="text-align: center; width: 200px; padding: 1.5rem; background: #f0f9ff; border-radius: 12px 0 0 12px; border: 1px solid #e5e7eb;">
-<div style="font-size: 0.7rem; color: #0284c7; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 0.8rem;">用户层</div>
-<div style="font-size: 2rem; margin-bottom: 0.5rem;">💬</div>
-<div style="font-size: 0.85rem; font-weight: 600;">飞书 / Slack</div>
-<div style="font-size: 0.7rem; color: #888; margin-top: 0.3rem;">在熟悉的<br/>平台上对话</div>
+<!-- OpenClaw 核心 -->
+<div style="background: #111; border-radius: 10px; padding: 0.8rem 1.2rem; color: #fff; margin-bottom: 0.4rem;">
+<div style="text-align: center; font-weight: 700; font-size: 0.95rem; margin-bottom: 0.6rem;">🦞 OpenClaw</div>
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr; gap: 0.5rem;">
+<div style="text-align: center; padding: 0.4rem; background: #1e293b; border-radius: 6px;">
+<div style="font-size: 0.9rem;">🔀</div>
+<div style="font-size: 0.62rem; color: #94a3b8; margin-top: 0.2rem;">消息路由<br/><span style="color: #64748b;">多渠道统一接入</span></div>
+</div>
+<div style="text-align: center; padding: 0.4rem; background: #1e293b; border-radius: 6px;">
+<div style="font-size: 0.9rem;">🧠</div>
+<div style="font-size: 0.62rem; color: #94a3b8; margin-top: 0.2rem;">记忆系统<br/><span style="color: #64748b;">跨会话持久记忆</span></div>
+</div>
+<div style="text-align: center; padding: 0.4rem; background: #1e293b; border-radius: 6px;">
+<div style="font-size: 0.9rem;">⏰</div>
+<div style="font-size: 0.62rem; color: #94a3b8; margin-top: 0.2rem;">定时 + 主动<br/><span style="color: #64748b;">不是你问它才动</span></div>
+</div>
+<div style="text-align: center; padding: 0.4rem; background: #1e293b; border-radius: 6px;">
+<div style="font-size: 0.9rem;">🧩</div>
+<div style="font-size: 0.62rem; color: #94a3b8; margin-top: 0.2rem;">Skills 扩展<br/><span style="color: #64748b;">能力按需加载</span></div>
+</div>
+</div>
 </div>
 
-<div style="display: flex; align-items: center; font-size: 1.5rem; color: #ccc; padding: 0 0.5rem;">→</div>
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.4rem;">
 
-<div style="text-align: center; width: 200px; padding: 1.5rem; background: #111; border-radius: 0; border: 1px solid #333; color: #fff;">
-<div style="font-size: 0.7rem; color: #999; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 0.8rem;">编排层</div>
-<div style="font-size: 2rem; margin-bottom: 0.5rem;">🦞</div>
-<div style="font-size: 0.85rem; font-weight: 600;">OpenClaw</div>
-<div style="font-size: 0.7rem; color: #999; margin-top: 0.3rem;">调度 & 编排<br/>数字员工</div>
+<!-- AI 大脑 -->
+<div style="text-align: center; color: #ccc; font-size: 0.9rem;">↓</div>
+<div style="text-align: center; color: #ccc; font-size: 0.9rem;">↓</div>
+
+<div style="padding: 0.6rem 0.8rem; background: #fef3c7; border-radius: 8px; border: 1px solid #fcd34d;">
+<div style="font-weight: 700; font-size: 0.8rem; text-align: center; margin-bottom: 0.3rem;">🧠 AI 大脑</div>
+<div style="font-size: 0.62rem; color: #92400e; text-align: center; line-height: 1.5;">Amazon Bedrock（Claude / Nova）<br/>也可接入其他模型</div>
 </div>
 
-<div style="display: flex; align-items: center; font-size: 1.5rem; color: #ccc; padding: 0 0.5rem;">→</div>
-
-<div style="text-align: center; width: 200px; padding: 1.5rem; background: #fef3c7; border-radius: 0 12px 12px 0; border: 1px solid #e5e7eb;">
-<div style="font-size: 0.7rem; color: #d97706; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 0.8rem;">AI 层</div>
-<div style="font-size: 2rem; margin-bottom: 0.5rem;">🧠</div>
-<div style="font-size: 0.85rem; font-weight: 600;">Amazon Bedrock</div>
-<div style="font-size: 0.7rem; color: #888; margin-top: 0.3rem;">+ 工具（日历、文档、<br/>知识库）</div>
+<!-- 工具层 -->
+<div style="padding: 0.6rem 0.8rem; background: #ecfdf5; border-radius: 8px; border: 1px solid #a7f3d0;">
+<div style="font-weight: 700; font-size: 0.8rem; text-align: center; margin-bottom: 0.3rem;">🛠️ 工具 & 集成</div>
+<div style="display: flex; flex-wrap: wrap; gap: 0.2rem; justify-content: center;">
+<span style="font-size: 0.55rem; padding: 0.1rem 0.35rem; background: #d1fae5; border-radius: 3px; color: #065f46;">日历</span>
+<span style="font-size: 0.55rem; padding: 0.1rem 0.35rem; background: #d1fae5; border-radius: 3px; color: #065f46;">邮件</span>
+<span style="font-size: 0.55rem; padding: 0.1rem 0.35rem; background: #d1fae5; border-radius: 3px; color: #065f46;">文档</span>
+<span style="font-size: 0.55rem; padding: 0.1rem 0.35rem; background: #d1fae5; border-radius: 3px; color: #065f46;">知识库</span>
+<span style="font-size: 0.55rem; padding: 0.1rem 0.35rem; background: #d1fae5; border-radius: 3px; color: #065f46;">浏览器</span>
+<span style="font-size: 0.55rem; padding: 0.1rem 0.35rem; background: #d1fae5; border-radius: 3px; color: #065f46;">命令行</span>
+<span style="font-size: 0.55rem; padding: 0.1rem 0.35rem; background: #d1fae5; border-radius: 3px; color: #065f46;">搜索</span>
+<span style="font-size: 0.55rem; padding: 0.1rem 0.35rem; background: #d1fae5; border-radius: 3px; color: #065f46;">第三方 API</span>
+</div>
 </div>
 
 </div>
-</div>
 
-<div style="text-align: center; margin-top: 2.5rem; padding: 0.8rem 2rem; background: #f8fafc; border-radius: 8px; border: 1px solid #e5e7eb;">
-<span style="font-size: 0.9rem; color: #475569;">用户不需要换工具 — 在<strong>飞书</strong>里就能跟数字员工对话</span>
+<div style="text-align: center; margin-top: 0.5rem; padding: 0.4rem 1.2rem; background: #f8fafc; border-radius: 8px; border: 1px solid #e5e7eb;">
+<span style="font-size: 0.75rem; color: #475569;">不是「你问它才动」— 定时巡检 + 主动汇报，<strong>7×24 在线</strong></span>
 </div>
 
 ---
