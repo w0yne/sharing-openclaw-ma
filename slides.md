@@ -566,24 +566,24 @@ PPT · 日历 · 代码审查<br/>
 <div style="text-align: center; color: #ccc; font-size: 0.9rem;">↓</div>
 
 <!-- OpenClaw 核心 -->
-<div style="background: #111; border-radius: 10px; padding: 0.8rem 1.2rem; color: #fff; margin-bottom: 0.4rem;">
+<div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 0.8rem 1.2rem; margin-bottom: 0.4rem;">
 <div style="text-align: center; font-weight: 700; font-size: 0.95rem; margin-bottom: 0.6rem;">🦞 OpenClaw</div>
 <div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr; gap: 0.5rem;">
-<div style="text-align: center; padding: 0.4rem; background: #1e293b; border-radius: 6px;">
+<div style="text-align: center; padding: 0.4rem; background: #fff; border: 1px solid #e5e7eb; border-radius: 6px;">
 <div style="font-size: 0.9rem;">🔀</div>
-<div style="font-size: 0.62rem; color: #94a3b8; margin-top: 0.2rem;">消息路由<br/><span style="color: #64748b;">多渠道统一接入</span></div>
+<div style="font-size: 0.62rem; color: #555; margin-top: 0.2rem;">消息路由<br/><span style="color: #999;">多渠道统一接入</span></div>
 </div>
-<div style="text-align: center; padding: 0.4rem; background: #1e293b; border-radius: 6px;">
+<div style="text-align: center; padding: 0.4rem; background: #fff; border: 1px solid #e5e7eb; border-radius: 6px;">
 <div style="font-size: 0.9rem;">🧠</div>
-<div style="font-size: 0.62rem; color: #94a3b8; margin-top: 0.2rem;">记忆系统<br/><span style="color: #64748b;">跨会话持久记忆</span></div>
+<div style="font-size: 0.62rem; color: #555; margin-top: 0.2rem;">记忆系统<br/><span style="color: #999;">跨会话持久记忆</span></div>
 </div>
-<div style="text-align: center; padding: 0.4rem; background: #1e293b; border-radius: 6px;">
+<div style="text-align: center; padding: 0.4rem; background: #fff; border: 1px solid #e5e7eb; border-radius: 6px;">
 <div style="font-size: 0.9rem;">⏰</div>
-<div style="font-size: 0.62rem; color: #94a3b8; margin-top: 0.2rem;">定时 + 主动<br/><span style="color: #64748b;">不是你问它才动</span></div>
+<div style="font-size: 0.62rem; color: #555; margin-top: 0.2rem;">定时 + 主动<br/><span style="color: #999;">不是你问它才动</span></div>
 </div>
-<div style="text-align: center; padding: 0.4rem; background: #1e293b; border-radius: 6px;">
+<div style="text-align: center; padding: 0.4rem; background: #fff; border: 1px solid #e5e7eb; border-radius: 6px;">
 <div style="font-size: 0.9rem;">🧩</div>
-<div style="font-size: 0.62rem; color: #94a3b8; margin-top: 0.2rem;">Skills 扩展<br/><span style="color: #64748b;">能力按需加载</span></div>
+<div style="font-size: 0.62rem; color: #555; margin-top: 0.2rem;">Skills 扩展<br/><span style="color: #999;">能力按需加载</span></div>
 </div>
 </div>
 </div>
@@ -596,21 +596,19 @@ PPT · 日历 · 代码审查<br/>
 
 <div style="padding: 0.6rem 0.8rem; background: #fef3c7; border-radius: 8px; border: 1px solid #fcd34d;">
 <div style="font-weight: 700; font-size: 0.8rem; text-align: center; margin-bottom: 0.3rem;">🧠 AI 大脑</div>
-<div style="font-size: 0.62rem; color: #92400e; text-align: center; line-height: 1.5;">Amazon Bedrock（Claude / Nova）<br/>也可接入其他模型</div>
+<div style="font-size: 0.62rem; color: #92400e; text-align: center; line-height: 1.5;">Amazon Bedrock<br/>Claude · Nova</div>
 </div>
 
-<!-- 工具层 -->
+<!-- 医学工具层 -->
 <div style="padding: 0.6rem 0.8rem; background: #ecfdf5; border-radius: 8px; border: 1px solid #a7f3d0;">
-<div style="font-weight: 700; font-size: 0.8rem; text-align: center; margin-bottom: 0.3rem;">🛠️ 工具 & 集成</div>
-<div style="display: flex; flex-wrap: wrap; gap: 0.2rem; justify-content: center;">
-<span style="font-size: 0.55rem; padding: 0.1rem 0.35rem; background: #d1fae5; border-radius: 3px; color: #065f46;">日历</span>
-<span style="font-size: 0.55rem; padding: 0.1rem 0.35rem; background: #d1fae5; border-radius: 3px; color: #065f46;">邮件</span>
-<span style="font-size: 0.55rem; padding: 0.1rem 0.35rem; background: #d1fae5; border-radius: 3px; color: #065f46;">文档</span>
-<span style="font-size: 0.55rem; padding: 0.1rem 0.35rem; background: #d1fae5; border-radius: 3px; color: #065f46;">知识库</span>
-<span style="font-size: 0.55rem; padding: 0.1rem 0.35rem; background: #d1fae5; border-radius: 3px; color: #065f46;">浏览器</span>
-<span style="font-size: 0.55rem; padding: 0.1rem 0.35rem; background: #d1fae5; border-radius: 3px; color: #065f46;">命令行</span>
-<span style="font-size: 0.55rem; padding: 0.1rem 0.35rem; background: #d1fae5; border-radius: 3px; color: #065f46;">搜索</span>
-<span style="font-size: 0.55rem; padding: 0.1rem 0.35rem; background: #d1fae5; border-radius: 3px; color: #065f46;">第三方 API</span>
+<div style="font-weight: 700; font-size: 0.8rem; text-align: center; margin-bottom: 0.4rem;">🛠️ 医学场景集成</div>
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.25rem;">
+<div style="font-size: 0.58rem; padding: 0.2rem 0.4rem; background: #d1fae5; border-radius: 3px; color: #065f46;">📄 医学文献库（PubMed）</div>
+<div style="font-size: 0.58rem; padding: 0.2rem 0.4rem; background: #d1fae5; border-radius: 3px; color: #065f46;">📋 产品信息（PI / SmPC）</div>
+<div style="font-size: 0.58rem; padding: 0.2rem 0.4rem; background: #d1fae5; border-radius: 3px; color: #065f46;">🎙️ 会议录音转写</div>
+<div style="font-size: 0.58rem; padding: 0.2rem 0.4rem; background: #d1fae5; border-radius: 3px; color: #065f46;">📁 内部 SOP / Q&amp;A 知识库</div>
+<div style="font-size: 0.58rem; padding: 0.2rem 0.4rem; background: #d1fae5; border-radius: 3px; color: #065f46;">📝 监管文档（CSR 模板）</div>
+<div style="font-size: 0.58rem; padding: 0.2rem 0.4rem; background: #d1fae5; border-radius: 3px; color: #065f46;">📅 日历 / OA 审批系统</div>
 </div>
 </div>
 
