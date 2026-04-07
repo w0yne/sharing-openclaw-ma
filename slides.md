@@ -2,7 +2,7 @@
 theme: apple-basic
 title: "OpenClaw 如何重塑 AI 生产力"
 info: |
-  OpenClaw —  Medical Affairs Sharing
+  OpenClaw — Medical Affairs Sharing
 layout: intro-image-right
 image: ''
 colorSchema: light
@@ -24,7 +24,7 @@ Open Source · Self-Hosted · Enterprise-Ready
 
 <div style="margin-top: 2.5rem; font-size: 0.85rem; color: #888;">
 <strong style="color: #555;">Speaker</strong> · Solutions Architect · AWS<br/>
- China Medical Team · 2026.04
+Medical Affairs Team · 2026.04
 </div>
 
 ---
