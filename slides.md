@@ -54,6 +54,90 @@ Medical Affairs Team · 2026.04
 </div>
 
 ---
+
+# 聊天机器人 vs 数字员工
+
+<div style="font-size: 0.95rem; color: #666; margin: 0.5rem 0 2rem;">看起来都是"跟 AI 说话"，本质完全不同。</div>
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0; margin-top: 1rem;">
+
+<div style="padding: 2rem; background: #f8f9fa; border-radius: 12px 0 0 12px; border: 1px solid #e5e7eb;">
+<div style="font-size: 0.75rem; color: #999; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 1rem;">聊天机器人</div>
+<div style="font-size: 2.5rem; margin-bottom: 1rem;">🤖</div>
+
+<div style="padding: 0.6rem 0; border-bottom: 1px solid #e5e7eb;">
+<div style="font-size: 0.85rem; color: #555;">你问一句，它答一句</div>
+</div>
+<div style="padding: 0.6rem 0; border-bottom: 1px solid #e5e7eb;">
+<div style="font-size: 0.85rem; color: #555;">关掉窗口，一切归零</div>
+</div>
+<div style="padding: 0.6rem 0; border-bottom: 1px solid #e5e7eb;">
+<div style="font-size: 0.85rem; color: #555;">只能说，不能做</div>
+</div>
+<div style="padding: 0.6rem 0;">
+<div style="font-size: 0.85rem; color: #555;">像一本<strong>会说话的字典</strong></div>
+</div>
+</div>
+
+<div style="padding: 2rem; background: #fff; border-radius: 0 12px 12px 0; border: 1px solid #e5e7eb; border-left: 3px solid #ef4444;">
+<div style="font-size: 0.75rem; color: #ef4444; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 1rem;">数字员工 / AI Agent</div>
+<div style="font-size: 2.5rem; margin-bottom: 1rem;">🦞</div>
+
+<div style="padding: 0.6rem 0; border-bottom: 1px solid #e5e7eb;">
+<div style="font-size: 0.85rem; color: #333; font-weight: 500;">你给目标，它自己规划执行</div>
+</div>
+<div style="padding: 0.6rem 0; border-bottom: 1px solid #e5e7eb;">
+<div style="font-size: 0.85rem; color: #333; font-weight: 500;">记住你的偏好和历史</div>
+</div>
+<div style="padding: 0.6rem 0; border-bottom: 1px solid #e5e7eb;">
+<div style="font-size: 0.85rem; color: #333; font-weight: 500;">能查、能写、能操作系统</div>
+</div>
+<div style="padding: 0.6rem 0;">
+<div style="font-size: 0.85rem; color: #333; font-weight: 500;">像一个<strong style="color: #ef4444;">7×24 的实习生</strong></div>
+</div>
+</div>
+
+</div>
+
+---
+
+# 数字员工 vs OpenClaw
+
+<div style="font-size: 0.95rem; color: #666; margin: 0.5rem 0 2rem;">数字员工是"人"，OpenClaw 是让这个"人"能上班的"办公室"。</div>
+
+<div style="display: grid; grid-template-columns: 1fr auto 1fr; gap: 1.5rem; align-items: center; margin-top: 2rem;">
+
+<div style="padding: 2rem; border: 1px solid #e5e7eb; border-radius: 12px; text-align: center;">
+<div style="font-size: 2.5rem; margin-bottom: 1rem;">🦞</div>
+<div style="font-weight: 700; font-size: 1.2rem; margin-bottom: 0.5rem;">数字员工</div>
+<div style="font-size: 0.8rem; color: #666; line-height: 1.8;">
+有大脑（AI 模型）<br/>
+有技能（工具调用）<br/>
+有记忆（上下文持久化）<br/>
+<strong>= 能干活的 AI</strong>
+</div>
+</div>
+
+<div style="font-size: 1.5rem; color: #ccc;">+</div>
+
+<div style="padding: 2rem; background: #111; border-radius: 12px; text-align: center; color: #fff;">
+<div style="font-size: 2.5rem; margin-bottom: 1rem;">🏢</div>
+<div style="font-weight: 700; font-size: 1.2rem; margin-bottom: 0.5rem;">OpenClaw</div>
+<div style="font-size: 0.8rem; color: #999; line-height: 1.8;">
+给它工位（运行环境）<br/>
+给它门禁卡（权限管理）<br/>
+给它通讯录（消息平台接入）<br/>
+<strong style="color: #fff;">= 让 AI 落地的操作系统</strong>
+</div>
+</div>
+
+</div>
+
+<div style="text-align: center; margin-top: 2.5rem; padding: 0.8rem 2rem; background: #f8fafc; border-radius: 8px; border: 1px solid #e5e7eb;">
+<span style="font-size: 0.9rem; color: #475569;">开源、部署在你自己的基础设施、<strong style="color: #ef4444;">数据不出境</strong></span>
+</div>
+
+---
 layout: section
 ---
 
@@ -121,49 +205,6 @@ Demo: 飞书中的数字员工晨间消息推送
 </div>
 
 </div>
-</div>
-
----
-
-# 这不是聊天机器人
-
-<div style="font-size: 0.95rem; color: #666; margin: 0.5rem 0 2rem;">它是会主动干活的<strong style="color: #ef4444;">数字员工</strong>。</div>
-
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; margin-top: 2.5rem;">
-
-<div style="padding: 2rem 1.5rem; border: 1px solid #e5e7eb; border-radius: 12px; text-align: center;">
-<div style="font-size: 2.5rem; margin-bottom: 1rem;">🧠</div>
-<div style="font-weight: 700; font-size: 1.1rem;">大脑</div>
-<div style="font-size: 0.8rem; color: #666; margin-top: 0.5rem; font-weight: 500;">大语言模型</div>
-<div style="font-size: 0.75rem; color: #999; margin-top: 0.8rem; line-height: 1.6;">
-能理解自然语言<br/>
-能推理和判断<br/>
-能生成内容
-</div>
-</div>
-
-<div style="padding: 2rem 1.5rem; border: 1px solid #e5e7eb; border-radius: 12px; text-align: center;">
-<div style="font-size: 2.5rem; margin-bottom: 1rem;">🤲</div>
-<div style="font-weight: 700; font-size: 1.1rem;">手</div>
-<div style="font-size: 0.8rem; color: #666; margin-top: 0.5rem; font-weight: 500;">工具调用</div>
-<div style="font-size: 0.75rem; color: #999; margin-top: 0.8rem; line-height: 1.6;">
-查日历、写文档<br/>
-搜文献、做表格<br/>
-操作业务系统
-</div>
-</div>
-
-<div style="padding: 2rem 1.5rem; border: 1px solid #e5e7eb; border-radius: 12px; text-align: center;">
-<div style="font-size: 2.5rem; margin-bottom: 1rem;">💾</div>
-<div style="font-weight: 700; font-size: 1.1rem;">记忆</div>
-<div style="font-size: 0.8rem; color: #666; margin-top: 0.5rem; font-weight: 500;">上下文持久化</div>
-<div style="font-size: 0.75rem; color: #999; margin-top: 0.8rem; line-height: 1.6;">
-记住你的偏好<br/>
-记住历史对话<br/>
-越用越懂你
-</div>
-</div>
-
 </div>
 
 ---
