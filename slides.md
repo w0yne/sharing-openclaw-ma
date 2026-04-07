@@ -143,68 +143,118 @@ Medical Affairs Team · 2026.04
 
 # 🦞 你的龙虾同事
 
-<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 1rem; margin-top: 0.8rem;">
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 1.5rem; margin-top: 0.5rem;">
 
-<div style="background: linear-gradient(135deg, #0f172a, #1e293b); border-radius: 12px; padding: 1.2rem; color: #fff; border: 1px solid #334155;">
+<div style="padding: 1rem 1.2rem; border: 1px solid #e5e7eb; border-radius: 12px;">
+
+<div style="text-align: center; font-weight: 700; font-size: 0.95rem; margin-bottom: 0.8rem;">1:1 贴身助手</div>
+
 <div style="text-align: center; margin-bottom: 0.8rem;">
-<div style="font-size: 1.5rem;">👤 ↔ 🦞</div>
-<div style="font-size: 0.7rem; color: #94a3b8; margin-top: 0.3rem;">你 ↔ 龙虾助手</div>
-</div>
-<div style="display: flex; flex-wrap: wrap; gap: 0.3rem; justify-content: center; margin-bottom: 0.8rem;">
-<span style="font-size: 0.6rem; padding: 0.2rem 0.5rem; background: #1e3a5f; border-radius: 4px; color: #93c5fd;">📰 每日资讯摘要</span>
-<span style="font-size: 0.6rem; padding: 0.2rem 0.5rem; background: #1e3a5f; border-radius: 4px; color: #93c5fd;">📅 日程提醒</span>
-<span style="font-size: 0.6rem; padding: 0.2rem 0.5rem; background: #1e3a5f; border-radius: 4px; color: #93c5fd;">✍️ 写作 / 翻译</span>
-<span style="font-size: 0.6rem; padding: 0.2rem 0.5rem; background: #1e3a5f; border-radius: 4px; color: #93c5fd;">🔍 信息搜索</span>
-<span style="font-size: 0.6rem; padding: 0.2rem 0.5rem; background: #1e3a5f; border-radius: 4px; color: #93c5fd;">🌤️ 天气 / 出行关怀</span>
-</div>
-<div style="text-align: center; margin-bottom: 0.5rem; padding: 0.4rem 0.8rem; border: 1px solid #475569; border-radius: 6px;">
-<div style="font-size: 0.85rem; font-weight: 600;">1:1 贴身助手</div>
-</div>
-<div style="font-size: 0.65rem; color: #94a3b8; text-align: center; line-height: 1.5;">你说什么它就做什么<br/>主动提醒，不用你催</div>
+<svg width="160" height="80" viewBox="0 0 160 80" style="display: block; margin: 0 auto;">
+<circle cx="50" cy="35" r="18" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
+<text x="50" y="40" text-anchor="middle" font-size="16">👤</text>
+<line x1="72" y1="35" x2="88" y2="35" stroke="#3b82f6" stroke-width="2" marker-end="url(#arrow-blue)"/>
+<line x1="88" y1="35" x2="72" y2="35" stroke="#3b82f6" stroke-width="2" marker-start="url(#arrow-blue-rev)"/>
+<circle cx="110" cy="35" r="18" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
+<text x="110" y="40" text-anchor="middle" font-size="16">🦞</text>
+<defs>
+<marker id="arrow-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#3b82f6"/></marker>
+<marker id="arrow-blue-rev" viewBox="0 0 10 10" refX="1" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#3b82f6"/></marker>
+</defs>
+<text x="80" y="70" text-anchor="middle" font-size="10" fill="#666">一对一</text>
+</svg>
 </div>
 
-<div style="background: linear-gradient(135deg, #0f172a, #1e293b); border-radius: 12px; padding: 1.2rem; color: #fff; border: 1px solid #334155;">
+<div style="display: flex; flex-wrap: wrap; gap: 0.3rem; justify-content: center; margin-bottom: 0.6rem;">
+<span style="font-size: 0.62rem; padding: 0.15rem 0.45rem; background: #eff6ff; border: 1px solid #bfdbfe; border-radius: 4px; color: #1d4ed8;">📰 资讯摘要</span>
+<span style="font-size: 0.62rem; padding: 0.15rem 0.45rem; background: #eff6ff; border: 1px solid #bfdbfe; border-radius: 4px; color: #1d4ed8;">📅 日程提醒</span>
+<span style="font-size: 0.62rem; padding: 0.15rem 0.45rem; background: #eff6ff; border: 1px solid #bfdbfe; border-radius: 4px; color: #1d4ed8;">✍️ 写作 / 翻译</span>
+<span style="font-size: 0.62rem; padding: 0.15rem 0.45rem; background: #eff6ff; border: 1px solid #bfdbfe; border-radius: 4px; color: #1d4ed8;">🔍 信息搜索</span>
+</div>
+
+<div style="font-size: 0.72rem; color: #555; text-align: center; line-height: 1.6; padding: 0.4rem 0.5rem; background: #f8fafc; border-radius: 6px;">你说什么它就做什么<br/>主动提醒，不用你催</div>
+</div>
+
+<div style="padding: 1rem 1.2rem; border: 1px solid #e5e7eb; border-radius: 12px;">
+
+<div style="text-align: center; font-weight: 700; font-size: 0.95rem; margin-bottom: 0.8rem;">Executive Assistant</div>
+
 <div style="text-align: center; margin-bottom: 0.8rem;">
-<div style="font-size: 0.9rem;">👔</div>
-<div style="font-size: 0.65rem; color: #94a3b8;">Team Lead · 指令下达</div>
-<div style="font-size: 1.2rem; margin: 0.3rem 0;">🦞</div>
-<div style="font-size: 0.8rem;">👤 👤 👤</div>
-</div>
-<div style="display: flex; flex-wrap: wrap; gap: 0.3rem; justify-content: center; margin-bottom: 0.8rem;">
-<span style="font-size: 0.6rem; padding: 0.2rem 0.5rem; background: #3b1e5f; border-radius: 4px; color: #c4b5fd;">📋 晨间简报</span>
-<span style="font-size: 0.6rem; padding: 0.2rem 0.5rem; background: #3b1e5f; border-radius: 4px; color: #c4b5fd;">📊 项目跟踪</span>
-<span style="font-size: 0.6rem; padding: 0.2rem 0.5rem; background: #3b1e5f; border-radius: 4px; color: #c4b5fd;">📝 会议纪要</span>
-</div>
-<div style="text-align: center; margin-bottom: 0.5rem; padding: 0.4rem 0.8rem; border: 1px solid #475569; border-radius: 6px;">
-<div style="font-size: 0.85rem; font-weight: 600;">Executive Assistant</div>
-</div>
-<div style="font-size: 0.65rem; color: #94a3b8; text-align: center; line-height: 1.5;">替老板盯进度、做简报<br/>上传下达，信息不漏</div>
+<svg width="160" height="100" viewBox="0 0 160 100" style="display: block; margin: 0 auto;">
+<circle cx="80" cy="15" r="14" fill="#f3e8ff" stroke="#8b5cf6" stroke-width="2"/>
+<text x="80" y="20" text-anchor="middle" font-size="13">👔</text>
+<line x1="80" y1="30" x2="80" y2="45" stroke="#8b5cf6" stroke-width="2" marker-end="url(#arrow-purple)"/>
+<circle cx="80" cy="55" r="14" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
+<text x="80" y="60" text-anchor="middle" font-size="13">🦞</text>
+<line x1="65" y1="62" x2="35" y2="82" stroke="#8b5cf6" stroke-width="1.5" marker-end="url(#arrow-purple)"/>
+<line x1="80" y1="70" x2="80" y2="86" stroke="#8b5cf6" stroke-width="1.5" marker-end="url(#arrow-purple)"/>
+<line x1="95" y1="62" x2="125" y2="82" stroke="#8b5cf6" stroke-width="1.5" marker-end="url(#arrow-purple)"/>
+<circle cx="30" cy="88" r="8" fill="#f3e8ff" stroke="#8b5cf6" stroke-width="1.5"/>
+<circle cx="80" cy="92" r="8" fill="#f3e8ff" stroke="#8b5cf6" stroke-width="1.5"/>
+<circle cx="130" cy="88" r="8" fill="#f3e8ff" stroke="#8b5cf6" stroke-width="1.5"/>
+<defs>
+<marker id="arrow-purple" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#8b5cf6"/></marker>
+</defs>
+<text x="80" y="8" text-anchor="middle" font-size="8" fill="#666">一对多</text>
+</svg>
 </div>
 
-<div style="background: linear-gradient(135deg, #0f172a, #1e293b); border-radius: 12px; padding: 1.2rem; color: #fff; border: 1px solid #334155;">
+<div style="display: flex; flex-wrap: wrap; gap: 0.3rem; justify-content: center; margin-bottom: 0.6rem;">
+<span style="font-size: 0.62rem; padding: 0.15rem 0.45rem; background: #faf5ff; border: 1px solid #d8b4fe; border-radius: 4px; color: #6d28d9;">📋 晨间简报</span>
+<span style="font-size: 0.62rem; padding: 0.15rem 0.45rem; background: #faf5ff; border: 1px solid #d8b4fe; border-radius: 4px; color: #6d28d9;">📊 项目跟踪</span>
+<span style="font-size: 0.62rem; padding: 0.15rem 0.45rem; background: #faf5ff; border: 1px solid #d8b4fe; border-radius: 4px; color: #6d28d9;">📝 会议纪要</span>
+</div>
+
+<div style="font-size: 0.72rem; color: #555; text-align: center; line-height: 1.6; padding: 0.4rem 0.5rem; background: #f8fafc; border-radius: 6px;">替老板盯进度、做简报<br/>上传下达，信息不漏</div>
+</div>
+
+<div style="padding: 1rem 1.2rem; border: 1px solid #e5e7eb; border-radius: 12px;">
+
+<div style="text-align: center; font-weight: 700; font-size: 0.95rem; margin-bottom: 0.8rem;">团队智能基础设施</div>
+
 <div style="text-align: center; margin-bottom: 0.8rem;">
-<div style="font-size: 0.8rem;">👤 👤</div>
-<div style="font-size: 0.7rem;">👤 🦞 👤</div>
-<div style="font-size: 0.8rem;">👤 👤</div>
+<svg width="160" height="100" viewBox="0 0 160 100" style="display: block; margin: 0 auto;">
+<circle cx="80" cy="50" r="16" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
+<text x="80" y="55" text-anchor="middle" font-size="14">🦞</text>
+<circle cx="80" cy="10" r="9" fill="#ecfdf5" stroke="#10b981" stroke-width="1.5"/>
+<circle cx="120" cy="22" r="9" fill="#ecfdf5" stroke="#10b981" stroke-width="1.5"/>
+<circle cx="135" cy="55" r="9" fill="#ecfdf5" stroke="#10b981" stroke-width="1.5"/>
+<circle cx="120" cy="82" r="9" fill="#ecfdf5" stroke="#10b981" stroke-width="1.5"/>
+<circle cx="80" cy="92" r="9" fill="#ecfdf5" stroke="#10b981" stroke-width="1.5"/>
+<circle cx="40" cy="82" r="9" fill="#ecfdf5" stroke="#10b981" stroke-width="1.5"/>
+<circle cx="25" cy="55" r="9" fill="#ecfdf5" stroke="#10b981" stroke-width="1.5"/>
+<circle cx="40" cy="22" r="9" fill="#ecfdf5" stroke="#10b981" stroke-width="1.5"/>
+<line x1="80" y1="20" x2="80" y2="34" stroke="#10b981" stroke-width="1.2" marker-start="url(#arrow-green-rev)"/>
+<line x1="112" y1="28" x2="96" y2="40" stroke="#10b981" stroke-width="1.2" marker-start="url(#arrow-green-rev)"/>
+<line x1="126" y1="55" x2="96" y2="50" stroke="#10b981" stroke-width="1.2" marker-start="url(#arrow-green-rev)"/>
+<line x1="112" y1="76" x2="96" y2="62" stroke="#10b981" stroke-width="1.2" marker-start="url(#arrow-green-rev)"/>
+<line x1="80" y1="83" x2="80" y2="66" stroke="#10b981" stroke-width="1.2" marker-start="url(#arrow-green-rev)"/>
+<line x1="48" y1="76" x2="64" y2="62" stroke="#10b981" stroke-width="1.2" marker-start="url(#arrow-green-rev)"/>
+<line x1="34" y1="55" x2="64" y2="50" stroke="#10b981" stroke-width="1.2" marker-start="url(#arrow-green-rev)"/>
+<line x1="48" y1="28" x2="64" y2="40" stroke="#10b981" stroke-width="1.2" marker-start="url(#arrow-green-rev)"/>
+<defs>
+<marker id="arrow-green-rev" viewBox="0 0 10 10" refX="1" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M 10 0 L 0 5 L 10 10 z" fill="#10b981"/></marker>
+</defs>
+<text x="80" y="55" text-anchor="middle" font-size="0"></text>
+</svg>
+<div style="font-size: 0.65rem; color: #666; margin-top: -0.3rem;">多对一</div>
 </div>
-<div style="display: flex; flex-wrap: wrap; gap: 0.3rem; justify-content: center; margin-bottom: 0.8rem;">
-<span style="font-size: 0.6rem; padding: 0.2rem 0.5rem; background: #1e5f3b; border-radius: 4px; color: #86efac;">💚 关怀</span>
-<span style="font-size: 0.6rem; padding: 0.2rem 0.5rem; background: #1e5f3b; border-radius: 4px; color: #86efac;">📚 培训</span>
-<span style="font-size: 0.6rem; padding: 0.2rem 0.5rem; background: #1e5f3b; border-radius: 4px; color: #86efac;">📊 周报</span>
-<span style="font-size: 0.6rem; padding: 0.2rem 0.5rem; background: #1e5f3b; border-radius: 4px; color: #86efac;">🔔 提醒</span>
-<span style="font-size: 0.6rem; padding: 0.2rem 0.5rem; background: #1e5f3b; border-radius: 4px; color: #86efac;">📋 项目管理</span>
-<span style="font-size: 0.6rem; padding: 0.2rem 0.5rem; background: #1e5f3b; border-radius: 4px; color: #86efac;">📅 排日程</span>
+
+<div style="display: flex; flex-wrap: wrap; gap: 0.3rem; justify-content: center; margin-bottom: 0.6rem;">
+<span style="font-size: 0.62rem; padding: 0.15rem 0.45rem; background: #ecfdf5; border: 1px solid #a7f3d0; border-radius: 4px; color: #047857;">💚 关怀</span>
+<span style="font-size: 0.62rem; padding: 0.15rem 0.45rem; background: #ecfdf5; border: 1px solid #a7f3d0; border-radius: 4px; color: #047857;">📚 培训</span>
+<span style="font-size: 0.62rem; padding: 0.15rem 0.45rem; background: #ecfdf5; border: 1px solid #a7f3d0; border-radius: 4px; color: #047857;">📊 周报</span>
+<span style="font-size: 0.62rem; padding: 0.15rem 0.45rem; background: #ecfdf5; border: 1px solid #a7f3d0; border-radius: 4px; color: #047857;">🔔 提醒</span>
+<span style="font-size: 0.62rem; padding: 0.15rem 0.45rem; background: #ecfdf5; border: 1px solid #a7f3d0; border-radius: 4px; color: #047857;">📋 项目管理</span>
 </div>
-<div style="text-align: center; margin-bottom: 0.5rem; padding: 0.4rem 0.8rem; border: 1px solid #475569; border-radius: 6px;">
-<div style="font-size: 0.85rem; font-weight: 600;">团队智能基础设施</div>
-</div>
-<div style="font-size: 0.65rem; color: #94a3b8; text-align: center; line-height: 1.5;">每个人都能 @龙虾 求助<br/>关怀、提醒、培训、管理，全覆盖</div>
+
+<div style="font-size: 0.72rem; color: #555; text-align: center; line-height: 1.6; padding: 0.4rem 0.5rem; background: #f8fafc; border-radius: 6px;">每个人都能 @龙虾 求助<br/>关怀、提醒、培训，全覆盖</div>
 </div>
 
 </div>
 
-<div style="text-align: center; margin-top: 0.8rem; padding: 0.5rem 1.5rem; background: #0f172a; border-radius: 8px;">
-<span style="font-size: 0.8rem; color: #e2e8f0;">🦞 龙虾不是工具，是<strong style="color: #f97316;">同事</strong>。它可以只服务你一个人，也可以成为整个团队的<strong style="color: #f97316;">智能基础设施</strong></span>
+<div style="text-align: center; margin-top: 0.6rem; padding: 0.5rem 1.5rem; background: #f8fafc; border-radius: 8px; border: 1px solid #e5e7eb;">
+<span style="font-size: 0.8rem; color: #475569;">不是工具，是<strong style="color: #ef4444;">同事</strong>。可以只服务你一个人，也可以成为整个团队的<strong style="color: #ef4444;">智能基础设施</strong></span>
 </div>
 
 ---
