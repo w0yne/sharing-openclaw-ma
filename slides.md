@@ -225,6 +225,100 @@ Medical Affairs Team · 2026.04
 
 ---
 
+# 🎬 Demo：4 个场景，1 个龙虾
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-top: 1.5rem;">
+
+<div style="padding: 1.2rem; border: 1px solid #e5e7eb; border-radius: 10px; text-align: center;">
+<div style="font-size: 1.5rem; margin-bottom: 0.5rem;">📊</div>
+<div style="font-weight: 600; font-size: 0.9rem;">PPT 生成</div>
+<div style="font-size: 0.75rem; color: #888; margin-top: 0.3rem;">一句话需求 → 完整演示文稿</div>
+</div>
+
+<div style="padding: 1.2rem; border: 1px solid #e5e7eb; border-radius: 10px; text-align: center;">
+<div style="font-size: 1.5rem; margin-bottom: 0.5rem;">📈</div>
+<div style="font-weight: 600; font-size: 0.9rem;">数据分析</div>
+<div style="font-size: 0.75rem; color: #888; margin-top: 0.3rem;">上传数据 → 可视化洞察</div>
+</div>
+
+<div style="padding: 1.2rem; border: 1px solid #e5e7eb; border-radius: 10px; text-align: center;">
+<div style="font-size: 1.5rem; margin-bottom: 0.5rem;">🌐</div>
+<div style="font-weight: 600; font-size: 0.9rem;">网站搭建</div>
+<div style="font-size: 0.75rem; color: #888; margin-top: 0.3rem;">描述需求 → 自动编码部署</div>
+</div>
+
+<div style="padding: 1.2rem; border: 1px solid #e5e7eb; border-radius: 10px; text-align: center;">
+<div style="font-size: 1.5rem; margin-bottom: 0.5rem;">⏰</div>
+<div style="font-weight: 600; font-size: 0.9rem;">定时任务</div>
+<div style="font-size: 0.75rem; color: #888; margin-top: 0.3rem;">设定规则 → 自动执行 + 主动汇报</div>
+</div>
+
+</div>
+
+---
+
+# 它是怎么做到的
+
+<div style="font-size: 0.95rem; color: #666; margin: 0.3rem 0 1.5rem;">不是更聪明的聊天窗口，是一个完整的工作系统。</div>
+
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr; gap: 1rem; margin-top: 0.5rem;">
+
+<div style="padding: 1rem; border: 1px solid #e5e7eb; border-radius: 10px;">
+<div style="font-size: 1.5rem; text-align: center; margin-bottom: 0.5rem;">🛠️</div>
+<div style="font-weight: 700; font-size: 0.85rem; text-align: center; margin-bottom: 0.5rem;">工具调用</div>
+<div style="font-size: 0.7rem; color: #555; line-height: 1.6;">
+命令行执行<br/>
+浏览器操控<br/>
+文件读写<br/>
+API 调用
+</div>
+<div style="font-size: 0.62rem; color: #999; margin-top: 0.5rem; padding-top: 0.4rem; border-top: 1px solid #f0f0f0;">刚才的建站和数据分析<br/>→ 它真的在执行命令</div>
+</div>
+
+<div style="padding: 1rem; border: 1px solid #e5e7eb; border-radius: 10px;">
+<div style="font-size: 1.5rem; text-align: center; margin-bottom: 0.5rem;">💬</div>
+<div style="font-weight: 700; font-size: 0.85rem; text-align: center; margin-bottom: 0.5rem;">消息平台集成</div>
+<div style="font-size: 0.7rem; color: #555; line-height: 1.6;">
+飞书 · Slack · 微信<br/>
+WhatsApp · Telegram<br/>
+不用打开新窗口<br/>
+发消息就开始干活
+</div>
+<div style="font-size: 0.62rem; color: #999; margin-top: 0.5rem; padding-top: 0.4rem; border-top: 1px solid #f0f0f0;">在你已经用的工具里<br/>→ 直接对话，直接交付</div>
+</div>
+
+<div style="padding: 1rem; border: 1px solid #e5e7eb; border-radius: 10px;">
+<div style="font-size: 1.5rem; text-align: center; margin-bottom: 0.5rem;">🧠</div>
+<div style="font-weight: 700; font-size: 0.85rem; text-align: center; margin-bottom: 0.5rem;">持久记忆</div>
+<div style="font-size: 0.7rem; color: #555; line-height: 1.6;">
+跨会话保留上下文<br/>
+记住偏好和历史<br/>
+不用每次重复说明<br/>
+越用越懂你
+</div>
+<div style="font-size: 0.62rem; color: #999; margin-top: 0.5rem; padding-top: 0.4rem; border-top: 1px solid #f0f0f0;">刚才的定时任务<br/>→ 它记得你设过什么规则</div>
+</div>
+
+<div style="padding: 1rem; border: 1px solid #e5e7eb; border-radius: 10px;">
+<div style="font-size: 1.5rem; text-align: center; margin-bottom: 0.5rem;">🧩</div>
+<div style="font-weight: 700; font-size: 0.85rem; text-align: center; margin-bottom: 0.5rem;">Skills 扩展</div>
+<div style="font-size: 0.7rem; color: #555; line-height: 1.6;">
+像 App Store 装技能<br/>
+PPT · 日历 · 代码审查<br/>
+社区共建生态<br/>
+能力可以无限叠加
+</div>
+<div style="font-size: 0.62rem; color: #999; margin-top: 0.5rem; padding-top: 0.4rem; border-top: 1px solid #f0f0f0;">刚才的 PPT 生成<br/>→ 就是一个 Skill</div>
+</div>
+
+</div>
+
+<div style="text-align: center; margin-top: 1rem; padding: 0.5rem 1.5rem; background: #f8fafc; border-radius: 8px; border: 1px solid #e5e7eb;">
+<span style="font-size: 0.8rem; color: #475569;">开源 · 自托管 · 部署在你自己的 <strong>AWS</strong> 账号</span>
+</div>
+
+---
+
 # 👤 个人使用 · 你的 AI 贴身助手
 
 <div style="font-size: 0.85rem; color: #666; margin: 0.3rem 0 1rem;">每个人都有一个数字员工，它了解你的日程、偏好和工作节奏。</div>
