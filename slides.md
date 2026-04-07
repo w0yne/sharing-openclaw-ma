@@ -141,6 +141,20 @@ Medical Affairs Team · 2026.04
 
 ---
 
+# 🦞 你的龙虾同事
+
+<div style="font-size: 0.95rem; color: #666; margin: 0.3rem 0 1.5rem;">不是工具，是同事。取决于你怎么用它。</div>
+
+<div style="display: flex; justify-content: center;">
+<img src="/images/lobster-colleague.jpg" style="max-height: 400px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
+</div>
+
+<div style="text-align: center; margin-top: 1rem; padding: 0.5rem 1.5rem; background: #0f172a; border-radius: 8px; display: inline-block; width: 100%;">
+<span style="font-size: 0.85rem; color: #e2e8f0;">🦞 它可以只服务你一个人，也可以成为整个团队的<strong style="color: #f97316;">智能基础设施</strong></span>
+</div>
+
+---
+
 # 👤 个人使用 · 你的 AI 贴身助手
 
 <div style="font-size: 0.85rem; color: #666; margin: 0.3rem 0 1rem;">每个人都有一个数字员工，它了解你的日程、偏好和工作节奏。</div>
