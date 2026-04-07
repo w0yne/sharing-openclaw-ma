@@ -55,86 +55,88 @@ Medical Affairs Team · 2026.04
 
 ---
 
-# 聊天机器人 vs 数字员工
+# 聊天机器人 → 数字员工 → OpenClaw
 
-<div style="font-size: 0.95rem; color: #666; margin: 0.5rem 0 2rem;">看起来都是"跟 AI 说话"，本质完全不同。</div>
+<div style="font-size: 0.95rem; color: #666; margin: 0.3rem 0 1.5rem;">从「能聊天」到「能干活」到「能自主工作」— 三代 AI 助手的进化</div>
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0; margin-top: 1rem;">
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 0; margin-top: 0.5rem;">
 
-<div style="padding: 2rem; background: #f8f9fa; border-radius: 12px 0 0 12px; border: 1px solid #e5e7eb;">
-<div style="font-size: 0.75rem; color: #999; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 1rem;">聊天机器人</div>
-<div style="font-size: 2.5rem; margin-bottom: 1rem;">🤖</div>
-
-<div style="padding: 0.6rem 0; border-bottom: 1px solid #e5e7eb;">
-<div style="font-size: 0.85rem; color: #555;">你问一句，它答一句</div>
+<div style="padding: 1.2rem 1.5rem; background: #f8f9fa; border-radius: 12px 0 0 12px; border: 1px solid #e5e7eb;">
+<div style="font-size: 0.7rem; color: #999; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 0.6rem;">聊天机器人</div>
+<div style="font-size: 2rem; margin-bottom: 0.8rem;">🤖</div>
+<div style="padding: 0.4rem 0; border-bottom: 1px solid #e5e7eb;">
+<div style="font-size: 0.7rem; color: #999; font-weight: 600;">交互</div>
+<div style="font-size: 0.8rem; color: #555;">你问一句，它答一句</div>
 </div>
-<div style="padding: 0.6rem 0; border-bottom: 1px solid #e5e7eb;">
-<div style="font-size: 0.85rem; color: #555;">关掉窗口，一切归零</div>
+<div style="padding: 0.4rem 0; border-bottom: 1px solid #e5e7eb;">
+<div style="font-size: 0.7rem; color: #999; font-weight: 600;">记忆</div>
+<div style="font-size: 0.8rem; color: #555;">关掉窗口，一切归零</div>
 </div>
-<div style="padding: 0.6rem 0; border-bottom: 1px solid #e5e7eb;">
-<div style="font-size: 0.85rem; color: #555;">只能说，不能做</div>
+<div style="padding: 0.4rem 0; border-bottom: 1px solid #e5e7eb;">
+<div style="font-size: 0.7rem; color: #999; font-weight: 600;">执行力</div>
+<div style="font-size: 0.8rem; color: #555;">只能说，不能做</div>
 </div>
-<div style="padding: 0.6rem 0;">
-<div style="font-size: 0.85rem; color: #555;">像一本<strong>会说话的字典</strong></div>
+<div style="padding: 0.4rem 0; border-bottom: 1px solid #e5e7eb;">
+<div style="font-size: 0.7rem; color: #999; font-weight: 600;">集成</div>
+<div style="font-size: 0.8rem; color: #555;">单点嵌入网页或 App</div>
 </div>
-</div>
-
-<div style="padding: 2rem; background: #fff; border-radius: 0 12px 12px 0; border: 1px solid #e5e7eb; border-left: 3px solid #ef4444;">
-<div style="font-size: 0.75rem; color: #ef4444; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 1rem;">数字员工 / AI Agent</div>
-<div style="font-size: 2.5rem; margin-bottom: 1rem;">🦞</div>
-
-<div style="padding: 0.6rem 0; border-bottom: 1px solid #e5e7eb;">
-<div style="font-size: 0.85rem; color: #333; font-weight: 500;">你给目标，它自己规划执行</div>
-</div>
-<div style="padding: 0.6rem 0; border-bottom: 1px solid #e5e7eb;">
-<div style="font-size: 0.85rem; color: #333; font-weight: 500;">记住你的偏好和历史</div>
-</div>
-<div style="padding: 0.6rem 0; border-bottom: 1px solid #e5e7eb;">
-<div style="font-size: 0.85rem; color: #333; font-weight: 500;">能查、能写、能操作系统</div>
-</div>
-<div style="padding: 0.6rem 0;">
-<div style="font-size: 0.85rem; color: #333; font-weight: 500;">像一个<strong style="color: #ef4444;">7×24 的实习生</strong></div>
+<div style="padding: 0.4rem 0;">
+<div style="font-size: 0.8rem; color: #555;">像一本<strong>会说话的字典</strong></div>
 </div>
 </div>
 
+<div style="padding: 1.2rem 1.5rem; background: #fff; border: 1px solid #e5e7eb; border-left: 3px solid #3b82f6;">
+<div style="font-size: 0.7rem; color: #3b82f6; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 0.6rem;">数字员工 / RPA+AI</div>
+<div style="font-size: 2rem; margin-bottom: 0.8rem;">👔</div>
+<div style="padding: 0.4rem 0; border-bottom: 1px solid #e5e7eb;">
+<div style="font-size: 0.7rem; color: #3b82f6; font-weight: 600;">交互</div>
+<div style="font-size: 0.8rem; color: #333;">预设流程触发，按规则办事</div>
 </div>
-
----
-
-# 数字员工 vs OpenClaw
-
-<div style="font-size: 0.95rem; color: #666; margin: 0.5rem 0 2rem;">数字员工是"人"，OpenClaw 是让这个"人"能上班的"办公室"。</div>
-
-<div style="display: grid; grid-template-columns: 1fr auto 1fr; gap: 1.5rem; align-items: center; margin-top: 2rem;">
-
-<div style="padding: 2rem; border: 1px solid #e5e7eb; border-radius: 12px; text-align: center;">
-<div style="font-size: 2.5rem; margin-bottom: 1rem;">🦞</div>
-<div style="font-weight: 700; font-size: 1.2rem; margin-bottom: 0.5rem;">数字员工</div>
-<div style="font-size: 0.8rem; color: #666; line-height: 1.8;">
-有大脑（AI 模型）<br/>
-有技能（工具调用）<br/>
-有记忆（上下文持久化）<br/>
-<strong>= 能干活的 AI</strong>
+<div style="padding: 0.4rem 0; border-bottom: 1px solid #e5e7eb;">
+<div style="font-size: 0.7rem; color: #3b82f6; font-weight: 600;">记忆</div>
+<div style="font-size: 0.8rem; color: #333;">有限状态，流程内可追溯</div>
 </div>
+<div style="padding: 0.4rem 0; border-bottom: 1px solid #e5e7eb;">
+<div style="font-size: 0.7rem; color: #3b82f6; font-weight: 600;">执行力</div>
+<div style="font-size: 0.8rem; color: #333;">能按剧本执行，不会即兴发挥</div>
 </div>
-
-<div style="font-size: 1.5rem; color: #ccc;">+</div>
-
-<div style="padding: 2rem; background: #111; border-radius: 12px; text-align: center; color: #fff;">
-<div style="font-size: 2.5rem; margin-bottom: 1rem;">🏢</div>
-<div style="font-weight: 700; font-size: 1.2rem; margin-bottom: 0.5rem;">OpenClaw</div>
-<div style="font-size: 0.8rem; color: #999; line-height: 1.8;">
-给它工位（运行环境）<br/>
-给它门禁卡（权限管理）<br/>
-给它通讯录（消息平台接入）<br/>
-<strong style="color: #fff;">= 让 AI 落地的操作系统</strong>
+<div style="padding: 0.4rem 0; border-bottom: 1px solid #e5e7eb;">
+<div style="font-size: 0.7rem; color: #3b82f6; font-weight: 600;">集成</div>
+<div style="font-size: 0.8rem; color: #333;">对接 ERP / OA / CRM</div>
+</div>
+<div style="padding: 0.4rem 0;">
+<div style="font-size: 0.8rem; color: #333;">像一个<strong style="color: #3b82f6;">不知疲倦的流水线工人</strong></div>
 </div>
 </div>
 
+<div style="padding: 1.2rem 1.5rem; background: #111; border-radius: 0 12px 12px 0; color: #fff;">
+<div style="font-size: 0.7rem; color: #ef4444; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 0.6rem;">OpenClaw / AI Agent</div>
+<div style="font-size: 2rem; margin-bottom: 0.8rem;">🦞</div>
+<div style="padding: 0.4rem 0; border-bottom: 1px solid #333;">
+<div style="font-size: 0.7rem; color: #ef4444; font-weight: 600;">交互</div>
+<div style="font-size: 0.8rem; color: #e5e7eb;">你给目标，它自己规划执行</div>
+</div>
+<div style="padding: 0.4rem 0; border-bottom: 1px solid #333;">
+<div style="font-size: 0.7rem; color: #ef4444; font-weight: 600;">记忆</div>
+<div style="font-size: 0.8rem; color: #e5e7eb;">长期记忆，记住偏好和历史</div>
+</div>
+<div style="padding: 0.4rem 0; border-bottom: 1px solid #333;">
+<div style="font-size: 0.7rem; color: #ef4444; font-weight: 600;">执行力</div>
+<div style="font-size: 0.8rem; color: #e5e7eb;">能查、能写、能操作系统、能自我纠错</div>
+</div>
+<div style="padding: 0.4rem 0; border-bottom: 1px solid #333;">
+<div style="font-size: 0.7rem; color: #ef4444; font-weight: 600;">集成</div>
+<div style="font-size: 0.8rem; color: #e5e7eb;">飞书 / GitHub / AWS / 浏览器 + 可扩展</div>
+</div>
+<div style="padding: 0.4rem 0;">
+<div style="font-size: 0.8rem; color: #e5e7eb;">像一个<strong style="color: #ef4444;">7×24 在线的 AI 同事</strong></div>
+</div>
 </div>
 
-<div style="text-align: center; margin-top: 2.5rem; padding: 0.8rem 2rem; background: #f8fafc; border-radius: 8px; border: 1px solid #e5e7eb;">
-<span style="font-size: 0.9rem; color: #475569;">开源、部署在你自己的基础设施、<strong style="color: #ef4444;">数据不出境</strong></span>
+</div>
+
+<div style="text-align: center; margin-top: 1rem; padding: 0.6rem 1.5rem; background: #f8fafc; border-radius: 8px; border: 1px solid #e5e7eb;">
+<span style="font-size: 0.8rem; color: #475569;">演进方向 →  能力边界扩大 · 自主性提升 · 系统集成加深 · 从<strong>「工具」</strong>到<strong>「同事」</strong></span>
 </div>
 
 ---
