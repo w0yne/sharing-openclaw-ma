@@ -146,23 +146,13 @@ Medical Affairs Team · 2026.04
 <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 1.5rem; margin-top: 0.5rem;">
 
 <div style="padding: 1rem 1.2rem; border: 1px solid #e5e7eb; border-radius: 12px;">
+<div style="text-align: center; font-weight: 700; font-size: 0.95rem; margin-bottom: 0.6rem;">1:1 贴身助手</div>
 
-<div style="text-align: center; font-weight: 700; font-size: 0.95rem; margin-bottom: 0.8rem;">1:1 贴身助手</div>
-
-<div style="text-align: center; margin-bottom: 0.8rem;">
-<svg width="160" height="80" viewBox="0 0 160 80" style="display: block; margin: 0 auto;">
-<circle cx="50" cy="35" r="18" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
-<text x="50" y="40" text-anchor="middle" font-size="16">👤</text>
-<line x1="72" y1="35" x2="88" y2="35" stroke="#3b82f6" stroke-width="2" marker-end="url(#arrow-blue)"/>
-<line x1="88" y1="35" x2="72" y2="35" stroke="#3b82f6" stroke-width="2" marker-start="url(#arrow-blue-rev)"/>
-<circle cx="110" cy="35" r="18" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
-<text x="110" y="40" text-anchor="middle" font-size="16">🦞</text>
-<defs>
-<marker id="arrow-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#3b82f6"/></marker>
-<marker id="arrow-blue-rev" viewBox="0 0 10 10" refX="1" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#3b82f6"/></marker>
-</defs>
-<text x="80" y="70" text-anchor="middle" font-size="10" fill="#666">一对一</text>
-</svg>
+<div style="position: relative; height: 90px; margin-bottom: 0.5rem;">
+<div style="position: absolute; left: 25%; top: 50%; transform: translate(-50%,-50%); width: 42px; height: 42px; background: #dbeafe; border: 2px solid #3b82f6; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.2rem;">👤</div>
+<div style="position: absolute; left: 50%; top: 50%; transform: translate(-50%,-50%); display: flex; align-items: center; gap: 2px; color: #3b82f6; font-size: 1.2rem;">⇄</div>
+<div style="position: absolute; left: 75%; top: 50%; transform: translate(-50%,-50%); width: 42px; height: 42px; background: #fef3c7; border: 2px solid #f59e0b; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.2rem;">🦞</div>
+<div style="position: absolute; left: 50%; bottom: 0; transform: translateX(-50%); font-size: 0.6rem; color: #999;">一对一</div>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 0.3rem; justify-content: center; margin-bottom: 0.6rem;">
@@ -176,27 +166,19 @@ Medical Affairs Team · 2026.04
 </div>
 
 <div style="padding: 1rem 1.2rem; border: 1px solid #e5e7eb; border-radius: 12px;">
+<div style="text-align: center; font-weight: 700; font-size: 0.95rem; margin-bottom: 0.6rem;">Executive Assistant</div>
 
-<div style="text-align: center; font-weight: 700; font-size: 0.95rem; margin-bottom: 0.8rem;">Executive Assistant</div>
-
-<div style="text-align: center; margin-bottom: 0.8rem;">
-<svg width="160" height="100" viewBox="0 0 160 100" style="display: block; margin: 0 auto;">
-<circle cx="80" cy="15" r="14" fill="#f3e8ff" stroke="#8b5cf6" stroke-width="2"/>
-<text x="80" y="20" text-anchor="middle" font-size="13">👔</text>
-<line x1="80" y1="30" x2="80" y2="45" stroke="#8b5cf6" stroke-width="2" marker-end="url(#arrow-purple)"/>
-<circle cx="80" cy="55" r="14" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
-<text x="80" y="60" text-anchor="middle" font-size="13">🦞</text>
-<line x1="65" y1="62" x2="35" y2="82" stroke="#8b5cf6" stroke-width="1.5" marker-end="url(#arrow-purple)"/>
-<line x1="80" y1="70" x2="80" y2="86" stroke="#8b5cf6" stroke-width="1.5" marker-end="url(#arrow-purple)"/>
-<line x1="95" y1="62" x2="125" y2="82" stroke="#8b5cf6" stroke-width="1.5" marker-end="url(#arrow-purple)"/>
-<circle cx="30" cy="88" r="8" fill="#f3e8ff" stroke="#8b5cf6" stroke-width="1.5"/>
-<circle cx="80" cy="92" r="8" fill="#f3e8ff" stroke="#8b5cf6" stroke-width="1.5"/>
-<circle cx="130" cy="88" r="8" fill="#f3e8ff" stroke="#8b5cf6" stroke-width="1.5"/>
-<defs>
-<marker id="arrow-purple" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#8b5cf6"/></marker>
-</defs>
-<text x="80" y="8" text-anchor="middle" font-size="8" fill="#666">一对多</text>
-</svg>
+<div style="position: relative; height: 110px; margin-bottom: 0.5rem;">
+<div style="position: absolute; left: 50%; top: 0; transform: translateX(-50%); width: 36px; height: 36px; background: #f3e8ff; border: 2px solid #8b5cf6; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1rem;">👔</div>
+<div style="position: absolute; left: 50%; top: 32px; transform: translateX(-50%); color: #8b5cf6; font-size: 0.9rem;">↓</div>
+<div style="position: absolute; left: 50%; top: 42px; transform: translateX(-50%); width: 36px; height: 36px; background: #fef3c7; border: 2px solid #f59e0b; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1rem;">🦞</div>
+<div style="position: absolute; left: 20%; top: 75px; transform: translateX(-50%); color: #8b5cf6; font-size: 0.7rem;">↙</div>
+<div style="position: absolute; left: 50%; top: 78px; transform: translateX(-50%); color: #8b5cf6; font-size: 0.7rem;">↓</div>
+<div style="position: absolute; left: 80%; top: 75px; transform: translateX(-50%); color: #8b5cf6; font-size: 0.7rem;">↘</div>
+<div style="position: absolute; left: 15%; top: 85px; transform: translateX(-50%); width: 26px; height: 26px; background: #f3e8ff; border: 1.5px solid #8b5cf6; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 0.7rem;">👤</div>
+<div style="position: absolute; left: 50%; top: 85px; transform: translateX(-50%); width: 26px; height: 26px; background: #f3e8ff; border: 1.5px solid #8b5cf6; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 0.7rem;">👤</div>
+<div style="position: absolute; left: 85%; top: 85px; transform: translateX(-50%); width: 26px; height: 26px; background: #f3e8ff; border: 1.5px solid #8b5cf6; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 0.7rem;">👤</div>
+<div style="position: absolute; right: 0; top: 0; font-size: 0.6rem; color: #999;">一对多</div>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 0.3rem; justify-content: center; margin-bottom: 0.6rem;">
@@ -209,35 +191,19 @@ Medical Affairs Team · 2026.04
 </div>
 
 <div style="padding: 1rem 1.2rem; border: 1px solid #e5e7eb; border-radius: 12px;">
+<div style="text-align: center; font-weight: 700; font-size: 0.95rem; margin-bottom: 0.6rem;">团队智能基础设施</div>
 
-<div style="text-align: center; font-weight: 700; font-size: 0.95rem; margin-bottom: 0.8rem;">团队智能基础设施</div>
-
-<div style="text-align: center; margin-bottom: 0.8rem;">
-<svg width="160" height="100" viewBox="0 0 160 100" style="display: block; margin: 0 auto;">
-<circle cx="80" cy="50" r="16" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
-<text x="80" y="55" text-anchor="middle" font-size="14">🦞</text>
-<circle cx="80" cy="10" r="9" fill="#ecfdf5" stroke="#10b981" stroke-width="1.5"/>
-<circle cx="120" cy="22" r="9" fill="#ecfdf5" stroke="#10b981" stroke-width="1.5"/>
-<circle cx="135" cy="55" r="9" fill="#ecfdf5" stroke="#10b981" stroke-width="1.5"/>
-<circle cx="120" cy="82" r="9" fill="#ecfdf5" stroke="#10b981" stroke-width="1.5"/>
-<circle cx="80" cy="92" r="9" fill="#ecfdf5" stroke="#10b981" stroke-width="1.5"/>
-<circle cx="40" cy="82" r="9" fill="#ecfdf5" stroke="#10b981" stroke-width="1.5"/>
-<circle cx="25" cy="55" r="9" fill="#ecfdf5" stroke="#10b981" stroke-width="1.5"/>
-<circle cx="40" cy="22" r="9" fill="#ecfdf5" stroke="#10b981" stroke-width="1.5"/>
-<line x1="80" y1="20" x2="80" y2="34" stroke="#10b981" stroke-width="1.2" marker-start="url(#arrow-green-rev)"/>
-<line x1="112" y1="28" x2="96" y2="40" stroke="#10b981" stroke-width="1.2" marker-start="url(#arrow-green-rev)"/>
-<line x1="126" y1="55" x2="96" y2="50" stroke="#10b981" stroke-width="1.2" marker-start="url(#arrow-green-rev)"/>
-<line x1="112" y1="76" x2="96" y2="62" stroke="#10b981" stroke-width="1.2" marker-start="url(#arrow-green-rev)"/>
-<line x1="80" y1="83" x2="80" y2="66" stroke="#10b981" stroke-width="1.2" marker-start="url(#arrow-green-rev)"/>
-<line x1="48" y1="76" x2="64" y2="62" stroke="#10b981" stroke-width="1.2" marker-start="url(#arrow-green-rev)"/>
-<line x1="34" y1="55" x2="64" y2="50" stroke="#10b981" stroke-width="1.2" marker-start="url(#arrow-green-rev)"/>
-<line x1="48" y1="28" x2="64" y2="40" stroke="#10b981" stroke-width="1.2" marker-start="url(#arrow-green-rev)"/>
-<defs>
-<marker id="arrow-green-rev" viewBox="0 0 10 10" refX="1" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M 10 0 L 0 5 L 10 10 z" fill="#10b981"/></marker>
-</defs>
-<text x="80" y="55" text-anchor="middle" font-size="0"></text>
-</svg>
-<div style="font-size: 0.65rem; color: #666; margin-top: -0.3rem;">多对一</div>
+<div style="position: relative; height: 110px; margin-bottom: 0.5rem;">
+<div style="position: absolute; left: 50%; top: 50%; transform: translate(-50%,-50%); width: 40px; height: 40px; background: #fef3c7; border: 2px solid #f59e0b; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.1rem; z-index: 2;">🦞</div>
+<div style="position: absolute; left: 50%; top: 2px; transform: translateX(-50%); width: 24px; height: 24px; background: #ecfdf5; border: 1.5px solid #10b981; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 0.55rem;">👤</div>
+<div style="position: absolute; right: 12%; top: 15%; width: 24px; height: 24px; background: #ecfdf5; border: 1.5px solid #10b981; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 0.55rem;">👤</div>
+<div style="position: absolute; right: 5%; top: 45%; width: 24px; height: 24px; background: #ecfdf5; border: 1.5px solid #10b981; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 0.55rem;">👤</div>
+<div style="position: absolute; right: 12%; bottom: 10%; width: 24px; height: 24px; background: #ecfdf5; border: 1.5px solid #10b981; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 0.55rem;">👤</div>
+<div style="position: absolute; left: 50%; bottom: 0; transform: translateX(-50%); width: 24px; height: 24px; background: #ecfdf5; border: 1.5px solid #10b981; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 0.55rem;">👤</div>
+<div style="position: absolute; left: 12%; bottom: 10%; width: 24px; height: 24px; background: #ecfdf5; border: 1.5px solid #10b981; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 0.55rem;">👤</div>
+<div style="position: absolute; left: 5%; top: 45%; width: 24px; height: 24px; background: #ecfdf5; border: 1.5px solid #10b981; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 0.55rem;">👤</div>
+<div style="position: absolute; left: 12%; top: 15%; width: 24px; height: 24px; background: #ecfdf5; border: 1.5px solid #10b981; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 0.55rem;">👤</div>
+<div style="position: absolute; right: 0; top: 0; font-size: 0.6rem; color: #999;">多对一</div>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 0.3rem; justify-content: center; margin-bottom: 0.6rem;">
