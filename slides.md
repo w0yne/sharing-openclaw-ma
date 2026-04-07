@@ -55,87 +55,87 @@ Medical Affairs Team · 2026.04
 
 ---
 
-# 聊天机器人 → 数字员工 → OpenClaw
+# 聊天机器人 → AI 智能体 → OpenClaw
 
-<div style="font-size: 0.95rem; color: #666; margin: 0.3rem 0 1.5rem;">从「能聊天」到「能干活」到「能自主工作」— 三代 AI 助手的进化</div>
+<div style="font-size: 0.95rem; color: #666; margin: 0.3rem 0 1.5rem;">从「能聊天」到「能干活」到「能自主工作」— AI 助手的三次进化</div>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 0; margin-top: 0.5rem;">
 
-<div style="padding: 1.2rem 1.5rem; background: #f8f9fa; border-radius: 12px 0 0 12px; border: 1px solid #e5e7eb;">
+<div style="padding: 1rem 1.2rem; background: #f8f9fa; border-radius: 12px 0 0 12px; border: 1px solid #e5e7eb;">
 <div style="font-size: 0.7rem; color: #999; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 0.6rem;">聊天机器人</div>
-<div style="font-size: 2rem; margin-bottom: 0.8rem;">🤖</div>
-<div style="padding: 0.4rem 0; border-bottom: 1px solid #e5e7eb;">
+<div style="font-size: 1.6rem; margin-bottom: 0.5rem;">🤖</div>
+<div style="padding: 0.3rem 0; border-bottom: 1px solid #e5e7eb;">
 <div style="font-size: 0.7rem; color: #999; font-weight: 600;">交互</div>
 <div style="font-size: 0.8rem; color: #555;">你问一句，它答一句</div>
 </div>
-<div style="padding: 0.4rem 0; border-bottom: 1px solid #e5e7eb;">
+<div style="padding: 0.3rem 0; border-bottom: 1px solid #e5e7eb;">
 <div style="font-size: 0.7rem; color: #999; font-weight: 600;">记忆</div>
 <div style="font-size: 0.8rem; color: #555;">关掉窗口，一切归零</div>
 </div>
-<div style="padding: 0.4rem 0; border-bottom: 1px solid #e5e7eb;">
+<div style="padding: 0.3rem 0; border-bottom: 1px solid #e5e7eb;">
 <div style="font-size: 0.7rem; color: #999; font-weight: 600;">执行力</div>
 <div style="font-size: 0.8rem; color: #555;">只能说，不能做</div>
 </div>
-<div style="padding: 0.4rem 0; border-bottom: 1px solid #e5e7eb;">
+<div style="padding: 0.3rem 0; border-bottom: 1px solid #e5e7eb;">
 <div style="font-size: 0.7rem; color: #999; font-weight: 600;">集成</div>
 <div style="font-size: 0.8rem; color: #555;">单点嵌入网页或 App</div>
 </div>
-<div style="padding: 0.4rem 0;">
+<div style="padding: 0.3rem 0;">
 <div style="font-size: 0.8rem; color: #555;">像一本<strong>会说话的字典</strong></div>
 </div>
 </div>
 
-<div style="padding: 1.2rem 1.5rem; background: #fff; border: 1px solid #e5e7eb; border-left: 3px solid #3b82f6;">
-<div style="font-size: 0.7rem; color: #3b82f6; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 0.6rem;">数字员工 / RPA+AI</div>
-<div style="font-size: 2rem; margin-bottom: 0.8rem;">👔</div>
-<div style="padding: 0.4rem 0; border-bottom: 1px solid #e5e7eb;">
+<div style="padding: 1rem 1.2rem; background: #fff; border: 1px solid #e5e7eb; border-left: 3px solid #3b82f6;">
+<div style="font-size: 0.7rem; color: #3b82f6; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 0.6rem;">AI 智能体</div>
+<div style="font-size: 1.6rem; margin-bottom: 0.5rem;">🧠</div>
+<div style="padding: 0.3rem 0; border-bottom: 1px solid #e5e7eb;">
 <div style="font-size: 0.7rem; color: #3b82f6; font-weight: 600;">交互</div>
-<div style="font-size: 0.8rem; color: #333;">预设流程触发，按规则办事</div>
+<div style="font-size: 0.8rem; color: #333;">你给目标，它自己规划执行</div>
 </div>
-<div style="padding: 0.4rem 0; border-bottom: 1px solid #e5e7eb;">
+<div style="padding: 0.3rem 0; border-bottom: 1px solid #e5e7eb;">
 <div style="font-size: 0.7rem; color: #3b82f6; font-weight: 600;">记忆</div>
-<div style="font-size: 0.8rem; color: #333;">有限状态，流程内可追溯</div>
+<div style="font-size: 0.8rem; color: #333;">对话内可记忆，跨会话有限</div>
 </div>
-<div style="padding: 0.4rem 0; border-bottom: 1px solid #e5e7eb;">
+<div style="padding: 0.3rem 0; border-bottom: 1px solid #e5e7eb;">
 <div style="font-size: 0.7rem; color: #3b82f6; font-weight: 600;">执行力</div>
-<div style="font-size: 0.8rem; color: #333;">能按剧本执行，不会即兴发挥</div>
+<div style="font-size: 0.8rem; color: #333;">能调用工具，能推理判断</div>
 </div>
-<div style="padding: 0.4rem 0; border-bottom: 1px solid #e5e7eb;">
+<div style="padding: 0.3rem 0; border-bottom: 1px solid #e5e7eb;">
 <div style="font-size: 0.7rem; color: #3b82f6; font-weight: 600;">集成</div>
-<div style="font-size: 0.8rem; color: #333;">对接 ERP / OA / CRM</div>
+<div style="font-size: 0.8rem; color: #333;">通过 API 对接各类系统</div>
 </div>
-<div style="padding: 0.4rem 0;">
-<div style="font-size: 0.8rem; color: #333;">像一个<strong style="color: #3b82f6;">不知疲倦的流水线工人</strong></div>
+<div style="padding: 0.3rem 0;">
+<div style="font-size: 0.8rem; color: #333;">像一个<strong style="color: #3b82f6;">能干活的 AI 实习生</strong></div>
 </div>
 </div>
 
-<div style="padding: 1.2rem 1.5rem; background: #111; border-radius: 0 12px 12px 0; color: #fff;">
-<div style="font-size: 0.7rem; color: #ef4444; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 0.6rem;">OpenClaw / AI Agent</div>
-<div style="font-size: 2rem; margin-bottom: 0.8rem;">🦞</div>
-<div style="padding: 0.4rem 0; border-bottom: 1px solid #333;">
+<div style="padding: 1rem 1.2rem; background: #111; border-radius: 0 12px 12px 0; color: #fff;">
+<div style="font-size: 0.7rem; color: #ef4444; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 0.6rem;">OpenClaw</div>
+<div style="font-size: 1.6rem; margin-bottom: 0.5rem;">🦞</div>
+<div style="padding: 0.3rem 0; border-bottom: 1px solid #333;">
 <div style="font-size: 0.7rem; color: #ef4444; font-weight: 600;">交互</div>
-<div style="font-size: 0.8rem; color: #e5e7eb;">你给目标，它自己规划执行</div>
+<div style="font-size: 0.8rem; color: #e5e7eb;">理解意图后自主规划、拆解、迭代</div>
 </div>
-<div style="padding: 0.4rem 0; border-bottom: 1px solid #333;">
+<div style="padding: 0.3rem 0; border-bottom: 1px solid #333;">
 <div style="font-size: 0.7rem; color: #ef4444; font-weight: 600;">记忆</div>
-<div style="font-size: 0.8rem; color: #e5e7eb;">长期记忆，记住偏好和历史</div>
+<div style="font-size: 0.8rem; color: #e5e7eb;">持久记忆，跨会话记住偏好和历史</div>
 </div>
-<div style="padding: 0.4rem 0; border-bottom: 1px solid #333;">
+<div style="padding: 0.3rem 0; border-bottom: 1px solid #333;">
 <div style="font-size: 0.7rem; color: #ef4444; font-weight: 600;">执行力</div>
-<div style="font-size: 0.8rem; color: #e5e7eb;">能查、能写、能操作系统、能自我纠错</div>
+<div style="font-size: 0.8rem; color: #e5e7eb;">Skills 生态 + MCP 协议，能自我纠错</div>
 </div>
-<div style="padding: 0.4rem 0; border-bottom: 1px solid #333;">
+<div style="padding: 0.3rem 0; border-bottom: 1px solid #333;">
 <div style="font-size: 0.7rem; color: #ef4444; font-weight: 600;">集成</div>
 <div style="font-size: 0.8rem; color: #e5e7eb;">飞书 / GitHub / AWS / 浏览器 + 可扩展</div>
 </div>
-<div style="padding: 0.4rem 0;">
+<div style="padding: 0.3rem 0;">
 <div style="font-size: 0.8rem; color: #e5e7eb;">像一个<strong style="color: #ef4444;">7×24 在线的 AI 同事</strong></div>
 </div>
 </div>
 
 </div>
 
-<div style="text-align: center; margin-top: 1rem; padding: 0.6rem 1.5rem; background: #f8fafc; border-radius: 8px; border: 1px solid #e5e7eb;">
+<div style="text-align: center; margin-top: 0.6rem; padding: 0.4rem 1.2rem; background: #f8fafc; border-radius: 8px; border: 1px solid #e5e7eb;">
 <span style="font-size: 0.8rem; color: #475569;">演进方向 →  能力边界扩大 · 自主性提升 · 系统集成加深 · 从<strong>「工具」</strong>到<strong>「同事」</strong></span>
 </div>
 
