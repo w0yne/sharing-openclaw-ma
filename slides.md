@@ -143,14 +143,68 @@ Medical Affairs Team · 2026.04
 
 # 🦞 你的龙虾同事
 
-<div style="font-size: 0.95rem; color: #666; margin: 0.3rem 0 1.5rem;">不是工具，是同事。取决于你怎么用它。</div>
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 1rem; margin-top: 0.8rem;">
 
-<div style="display: flex; justify-content: center;">
-<img src="/images/lobster-colleague.jpg" style="max-height: 400px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
+<div style="background: linear-gradient(135deg, #0f172a, #1e293b); border-radius: 12px; padding: 1.2rem; color: #fff; border: 1px solid #334155;">
+<div style="text-align: center; margin-bottom: 0.8rem;">
+<div style="font-size: 1.5rem;">👤 ↔ 🦞</div>
+<div style="font-size: 0.7rem; color: #94a3b8; margin-top: 0.3rem;">你 ↔ 龙虾助手</div>
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 0.3rem; justify-content: center; margin-bottom: 0.8rem;">
+<span style="font-size: 0.6rem; padding: 0.2rem 0.5rem; background: #1e3a5f; border-radius: 4px; color: #93c5fd;">📰 每日资讯摘要</span>
+<span style="font-size: 0.6rem; padding: 0.2rem 0.5rem; background: #1e3a5f; border-radius: 4px; color: #93c5fd;">📅 日程提醒</span>
+<span style="font-size: 0.6rem; padding: 0.2rem 0.5rem; background: #1e3a5f; border-radius: 4px; color: #93c5fd;">✍️ 写作 / 翻译</span>
+<span style="font-size: 0.6rem; padding: 0.2rem 0.5rem; background: #1e3a5f; border-radius: 4px; color: #93c5fd;">🔍 信息搜索</span>
+<span style="font-size: 0.6rem; padding: 0.2rem 0.5rem; background: #1e3a5f; border-radius: 4px; color: #93c5fd;">🌤️ 天气 / 出行关怀</span>
+</div>
+<div style="text-align: center; margin-bottom: 0.5rem; padding: 0.4rem 0.8rem; border: 1px solid #475569; border-radius: 6px;">
+<div style="font-size: 0.85rem; font-weight: 600;">1:1 贴身助手</div>
+</div>
+<div style="font-size: 0.65rem; color: #94a3b8; text-align: center; line-height: 1.5;">你说什么它就做什么<br/>主动提醒，不用你催</div>
 </div>
 
-<div style="text-align: center; margin-top: 1rem; padding: 0.5rem 1.5rem; background: #0f172a; border-radius: 8px; display: inline-block; width: 100%;">
-<span style="font-size: 0.85rem; color: #e2e8f0;">🦞 它可以只服务你一个人，也可以成为整个团队的<strong style="color: #f97316;">智能基础设施</strong></span>
+<div style="background: linear-gradient(135deg, #0f172a, #1e293b); border-radius: 12px; padding: 1.2rem; color: #fff; border: 1px solid #334155;">
+<div style="text-align: center; margin-bottom: 0.8rem;">
+<div style="font-size: 0.9rem;">👔</div>
+<div style="font-size: 0.65rem; color: #94a3b8;">Team Lead · 指令下达</div>
+<div style="font-size: 1.2rem; margin: 0.3rem 0;">🦞</div>
+<div style="font-size: 0.8rem;">👤 👤 👤</div>
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 0.3rem; justify-content: center; margin-bottom: 0.8rem;">
+<span style="font-size: 0.6rem; padding: 0.2rem 0.5rem; background: #3b1e5f; border-radius: 4px; color: #c4b5fd;">📋 晨间简报</span>
+<span style="font-size: 0.6rem; padding: 0.2rem 0.5rem; background: #3b1e5f; border-radius: 4px; color: #c4b5fd;">📊 项目跟踪</span>
+<span style="font-size: 0.6rem; padding: 0.2rem 0.5rem; background: #3b1e5f; border-radius: 4px; color: #c4b5fd;">📝 会议纪要</span>
+</div>
+<div style="text-align: center; margin-bottom: 0.5rem; padding: 0.4rem 0.8rem; border: 1px solid #475569; border-radius: 6px;">
+<div style="font-size: 0.85rem; font-weight: 600;">Executive Assistant</div>
+</div>
+<div style="font-size: 0.65rem; color: #94a3b8; text-align: center; line-height: 1.5;">替老板盯进度、做简报<br/>上传下达，信息不漏</div>
+</div>
+
+<div style="background: linear-gradient(135deg, #0f172a, #1e293b); border-radius: 12px; padding: 1.2rem; color: #fff; border: 1px solid #334155;">
+<div style="text-align: center; margin-bottom: 0.8rem;">
+<div style="font-size: 0.8rem;">👤 👤</div>
+<div style="font-size: 0.7rem;">👤 🦞 👤</div>
+<div style="font-size: 0.8rem;">👤 👤</div>
+</div>
+<div style="display: flex; flex-wrap: wrap; gap: 0.3rem; justify-content: center; margin-bottom: 0.8rem;">
+<span style="font-size: 0.6rem; padding: 0.2rem 0.5rem; background: #1e5f3b; border-radius: 4px; color: #86efac;">💚 关怀</span>
+<span style="font-size: 0.6rem; padding: 0.2rem 0.5rem; background: #1e5f3b; border-radius: 4px; color: #86efac;">📚 培训</span>
+<span style="font-size: 0.6rem; padding: 0.2rem 0.5rem; background: #1e5f3b; border-radius: 4px; color: #86efac;">📊 周报</span>
+<span style="font-size: 0.6rem; padding: 0.2rem 0.5rem; background: #1e5f3b; border-radius: 4px; color: #86efac;">🔔 提醒</span>
+<span style="font-size: 0.6rem; padding: 0.2rem 0.5rem; background: #1e5f3b; border-radius: 4px; color: #86efac;">📋 项目管理</span>
+<span style="font-size: 0.6rem; padding: 0.2rem 0.5rem; background: #1e5f3b; border-radius: 4px; color: #86efac;">📅 排日程</span>
+</div>
+<div style="text-align: center; margin-bottom: 0.5rem; padding: 0.4rem 0.8rem; border: 1px solid #475569; border-radius: 6px;">
+<div style="font-size: 0.85rem; font-weight: 600;">团队智能基础设施</div>
+</div>
+<div style="font-size: 0.65rem; color: #94a3b8; text-align: center; line-height: 1.5;">每个人都能 @龙虾 求助<br/>关怀、提醒、培训、管理，全覆盖</div>
+</div>
+
+</div>
+
+<div style="text-align: center; margin-top: 0.8rem; padding: 0.5rem 1.5rem; background: #0f172a; border-radius: 8px;">
+<span style="font-size: 0.8rem; color: #e2e8f0;">🦞 龙虾不是工具，是<strong style="color: #f97316;">同事</strong>。它可以只服务你一个人，也可以成为整个团队的<strong style="color: #f97316;">智能基础设施</strong></span>
 </div>
 
 ---
