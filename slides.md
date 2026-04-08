@@ -2,7 +2,7 @@
 theme: apple-basic
 title: "OpenClaw 如何重塑 AI 生产力"
 info: |
-  OpenClaw — Medical Affairs Sharing
+  OpenClaw - Medical Affairs Sharing
 layout: intro-image-right
 image: ''
 colorSchema: light
@@ -19,7 +19,7 @@ mdc: true
 </div>
 
 <div style="font-size: 1rem; color: #555; margin-top: 1.5rem; font-weight: 400;">
-当 AI 不只是聊天，而是你的数字同事
+当 AI 不只是聊天,而是你的数字同事
 </div>
 
 <div style="margin-top: 3rem; font-size: 0.95rem; color: #999;">
@@ -37,17 +37,17 @@ Medical Affairs Team · 2026.04
 <div style="text-align: center; max-width: 700px;">
 
 <div style="font-size: 1.8rem; font-weight: 300; color: #333; line-height: 1.8;">
-今天早上，你花了多少时间在<br/>
+今天早上,你花了多少时间在<br/>
 <strong style="color: #000;">"不需要你大脑、但必须你动手"</strong><br/>
-的事情上？
+的事情上?
 </div>
 
 <div style="margin-top: 2.5rem; font-size: 0.95rem; color: #888; line-height: 2;">
-整理邮件 · 翻日程 · 找文档 · 核对数据引用 · 写报告…
+整理邮件 · 翻日程 · 找文档 · 核对数据引用 · 写报告...
 </div>
 
 <div style="margin-top: 2.5rem; padding: 0.8rem 2rem; background: #f8fafc; border-radius: 8px; border: 1px solid #e5e7eb; display: inline-block;">
-<span style="font-size: 1.1rem; color: #333; font-weight: 500;">如果这些事，<strong style="color: #ef4444;">有人帮你做</strong>呢？</span>
+<span style="font-size: 1.1rem; color: #333; font-weight: 500;">如果这些事,<strong style="color: #ef4444;">有人帮你做</strong>呢?</span>
 </div>
 
 </div>
@@ -57,7 +57,7 @@ Medical Affairs Team · 2026.04
 
 # 聊天机器人 → AI 智能体 → OpenClaw
 
-<div style="font-size: 0.95rem; color: #666; margin: 0.3rem 0 1.5rem;">从「能聊天」到「能干活」到「能自主工作」— AI 助手的三次进化</div>
+<div style="font-size: 0.95rem; color: #666; margin: 0.3rem 0 1.5rem;">从「能聊天」到「能干活」到「能自主工作」- AI 助手的三次进化</div>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 0; margin-top: 0.5rem;">
 
@@ -66,15 +66,15 @@ Medical Affairs Team · 2026.04
 <div style="font-size: 1.6rem; margin-bottom: 0.5rem;">🤖</div>
 <div style="padding: 0.3rem 0; border-bottom: 1px solid #e5e7eb;">
 <div style="font-size: 0.7rem; color: #999; font-weight: 600;">交互</div>
-<div style="font-size: 0.8rem; color: #555;">你问一句，它答一句</div>
+<div style="font-size: 0.8rem; color: #555;">你问一句,它答一句</div>
 </div>
 <div style="padding: 0.3rem 0; border-bottom: 1px solid #e5e7eb;">
 <div style="font-size: 0.7rem; color: #999; font-weight: 600;">记忆</div>
-<div style="font-size: 0.8rem; color: #555;">关掉窗口，一切归零</div>
+<div style="font-size: 0.8rem; color: #555;">关掉窗口,一切归零</div>
 </div>
 <div style="padding: 0.3rem 0; border-bottom: 1px solid #e5e7eb;">
 <div style="font-size: 0.7rem; color: #999; font-weight: 600;">执行力</div>
-<div style="font-size: 0.8rem; color: #555;">只能说，不能做</div>
+<div style="font-size: 0.8rem; color: #555;">只能说,不能做</div>
 </div>
 <div style="padding: 0.3rem 0; border-bottom: 1px solid #e5e7eb;">
 <div style="font-size: 0.7rem; color: #999; font-weight: 600;">集成</div>
@@ -90,15 +90,15 @@ Medical Affairs Team · 2026.04
 <div style="font-size: 1.6rem; margin-bottom: 0.5rem;">🧠</div>
 <div style="padding: 0.3rem 0; border-bottom: 1px solid #e5e7eb;">
 <div style="font-size: 0.7rem; color: #3b82f6; font-weight: 600;">交互</div>
-<div style="font-size: 0.8rem; color: #333;">你给目标，它自己规划执行</div>
+<div style="font-size: 0.8rem; color: #333;">你给目标,它自己规划执行</div>
 </div>
 <div style="padding: 0.3rem 0; border-bottom: 1px solid #e5e7eb;">
 <div style="font-size: 0.7rem; color: #3b82f6; font-weight: 600;">记忆</div>
-<div style="font-size: 0.8rem; color: #333;">对话内可记忆，跨会话有限</div>
+<div style="font-size: 0.8rem; color: #333;">对话内可记忆,跨会话有限</div>
 </div>
 <div style="padding: 0.3rem 0; border-bottom: 1px solid #e5e7eb;">
 <div style="font-size: 0.7rem; color: #3b82f6; font-weight: 600;">执行力</div>
-<div style="font-size: 0.8rem; color: #333;">能调用工具，能推理判断</div>
+<div style="font-size: 0.8rem; color: #333;">能调用工具,能推理判断</div>
 </div>
 <div style="padding: 0.3rem 0; border-bottom: 1px solid #e5e7eb;">
 <div style="font-size: 0.7rem; color: #3b82f6; font-weight: 600;">集成</div>
@@ -118,11 +118,11 @@ Medical Affairs Team · 2026.04
 </div>
 <div style="padding: 0.3rem 0; border-bottom: 1px solid #333;">
 <div style="font-size: 0.7rem; color: #ef4444; font-weight: 600;">记忆</div>
-<div style="font-size: 0.8rem; color: #e5e7eb;">持久记忆，跨会话记住偏好和历史</div>
+<div style="font-size: 0.8rem; color: #e5e7eb;">持久记忆,跨会话记住偏好和历史</div>
 </div>
 <div style="padding: 0.3rem 0; border-bottom: 1px solid #333;">
 <div style="font-size: 0.7rem; color: #ef4444; font-weight: 600;">执行力</div>
-<div style="font-size: 0.8rem; color: #e5e7eb;">Skills 生态 + MCP 协议，能自我纠错</div>
+<div style="font-size: 0.8rem; color: #e5e7eb;">Skills 生态 + MCP 协议,能自我纠错</div>
 </div>
 <div style="padding: 0.3rem 0; border-bottom: 1px solid #333;">
 <div style="font-size: 0.7rem; color: #ef4444; font-weight: 600;">集成</div>
@@ -162,7 +162,7 @@ Medical Affairs Team · 2026.04
 <span style="font-size: 0.62rem; padding: 0.15rem 0.45rem; background: #eff6ff; border: 1px solid #bfdbfe; border-radius: 4px; color: #1d4ed8;">🔍 信息搜索</span>
 </div>
 
-<div style="font-size: 0.72rem; color: #555; text-align: center; line-height: 1.6; padding: 0.4rem 0.5rem; background: #f8fafc; border-radius: 6px;">你说什么它就做什么<br/>主动提醒，不用你催</div>
+<div style="font-size: 0.72rem; color: #555; text-align: center; line-height: 1.6; padding: 0.4rem 0.5rem; background: #f8fafc; border-radius: 6px;">你说什么它就做什么<br/>主动提醒,不用你催</div>
 </div>
 
 <div style="padding: 1rem 1.2rem; border: 1px solid #e5e7eb; border-radius: 12px;">
@@ -187,7 +187,7 @@ Medical Affairs Team · 2026.04
 <span style="font-size: 0.62rem; padding: 0.15rem 0.45rem; background: #faf5ff; border: 1px solid #d8b4fe; border-radius: 4px; color: #6d28d9;">📝 会议纪要</span>
 </div>
 
-<div style="font-size: 0.72rem; color: #555; text-align: center; line-height: 1.6; padding: 0.4rem 0.5rem; background: #f8fafc; border-radius: 6px;">替老板盯进度、做简报<br/>上传下达，信息不漏</div>
+<div style="font-size: 0.72rem; color: #555; text-align: center; line-height: 1.6; padding: 0.4rem 0.5rem; background: #f8fafc; border-radius: 6px;">替老板盯进度、做简报<br/>上传下达,信息不漏</div>
 </div>
 
 <div style="padding: 1rem 1.2rem; border: 1px solid #e5e7eb; border-radius: 12px;">
@@ -214,18 +214,18 @@ Medical Affairs Team · 2026.04
 <span style="font-size: 0.62rem; padding: 0.15rem 0.45rem; background: #ecfdf5; border: 1px solid #a7f3d0; border-radius: 4px; color: #047857;">📋 项目管理</span>
 </div>
 
-<div style="font-size: 0.72rem; color: #555; text-align: center; line-height: 1.6; padding: 0.4rem 0.5rem; background: #f8fafc; border-radius: 6px;">每个人都能 @龙虾 求助<br/>关怀、提醒、培训，全覆盖</div>
+<div style="font-size: 0.72rem; color: #555; text-align: center; line-height: 1.6; padding: 0.4rem 0.5rem; background: #f8fafc; border-radius: 6px;">每个人都能 @龙虾 求助<br/>关怀、提醒、培训,全覆盖</div>
 </div>
 
 </div>
 
 <div style="text-align: center; margin-top: 0.6rem; padding: 0.5rem 1.5rem; background: #f8fafc; border-radius: 8px; border: 1px solid #e5e7eb;">
-<span style="font-size: 0.8rem; color: #475569;">不是工具，是<strong style="color: #ef4444;">同事</strong>。可以只服务你一个人，也可以成为整个团队的<strong style="color: #ef4444;">智能基础设施</strong></span>
+<span style="font-size: 0.8rem; color: #475569;">不是工具,是<strong style="color: #ef4444;">同事</strong>。可以只服务你一个人,也可以成为整个团队的<strong style="color: #ef4444;">智能基础设施</strong></span>
 </div>
 
 ---
 
-# 🎬 Demo：4 个场景，1 个龙虾
+# 🎬 Demo:4 个场景,1 个龙虾
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-top: 1.5rem;">
 
@@ -259,7 +259,7 @@ Medical Affairs Team · 2026.04
 
 # 它是怎么做到的
 
-<div style="font-size: 0.95rem; color: #666; margin: 0.3rem 0 1.5rem;">不是更聪明的聊天窗口，是一个完整的工作系统。</div>
+<div style="font-size: 0.95rem; color: #666; margin: 0.3rem 0 1.5rem;">不是更聪明的聊天窗口,是一个完整的工作系统。</div>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr; gap: 1rem; margin-top: 0.5rem;">
 
@@ -284,7 +284,7 @@ WhatsApp · Telegram<br/>
 不用打开新窗口<br/>
 发消息就开始干活
 </div>
-<div style="font-size: 0.62rem; color: #999; margin-top: 0.5rem; padding-top: 0.4rem; border-top: 1px solid #f0f0f0;">在你已经用的工具里<br/>→ 直接对话，直接交付</div>
+<div style="font-size: 0.62rem; color: #999; margin-top: 0.5rem; padding-top: 0.4rem; border-top: 1px solid #f0f0f0;">在你已经用的工具里<br/>→ 直接对话,直接交付</div>
 </div>
 
 <div style="padding: 1rem; border: 1px solid #e5e7eb; border-radius: 10px;">
@@ -319,9 +319,9 @@ PPT · 日历 · 代码审查<br/>
 
 ---
 
-# 在医学事务的日常工作中，它能做什么？
+# 在医学事务的日常工作中,它能做什么?
 
-<div style="font-size: 0.9rem; color: #666; margin: 0.3rem 0 1rem;">一天的工作，四个场景。</div>
+<div style="font-size: 0.9rem; color: #666; margin: 0.3rem 0 1rem;">一天的工作,四个场景。</div>
 
 <ProcessChevrons
   :steps="[
@@ -357,13 +357,13 @@ PPT · 日历 · 代码审查<br/>
 
 # 👤 个人使用 · 你的 AI 贴身助手
 
-<div style="font-size: 0.85rem; color: #666; margin: 0.3rem 0 1rem;">每个人都有一个数字员工，它了解你的日程、偏好和工作节奏。</div>
+<div style="font-size: 0.85rem; color: #666; margin: 0.3rem 0 1rem;">每个人都有一个数字员工,它了解你的日程、偏好和工作节奏。</div>
 
 <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 1.5rem;">
 
 <div>
 
-<div style="font-size: 0.7rem; color: #999; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 0.8rem;">08:00 · 晨间简报 — 出门前 5 分钟掌握全局</div>
+<div style="font-size: 0.7rem; color: #999; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 0.8rem;">08:00 · 晨间简报 - 出门前 5 分钟掌握全局</div>
 
 <div style="padding: 0.7rem 1rem; border: 1px solid #e5e7eb; border-radius: 8px; margin-bottom: 0.5rem;">
 <div style="font-weight: 600; font-size: 0.82rem;">📅 今日日程</div>
@@ -372,16 +372,16 @@ PPT · 日历 · 代码审查<br/>
 
 <div style="padding: 0.7rem 1rem; border: 1px solid #e5e7eb; border-radius: 8px; margin-bottom: 0.5rem;">
 <div style="font-weight: 600; font-size: 0.82rem;">📰 文献速递</div>
-<div style="font-size: 0.72rem; color: #888; margin-top: 0.2rem;">NEJM 发了一篇跟你负责治疗领域相关的文献，摘要已生成</div>
+<div style="font-size: 0.72rem; color: #888; margin-top: 0.2rem;">NEJM 发了一篇跟你负责治疗领域相关的文献,摘要已生成</div>
 </div>
 
 <div style="padding: 0.7rem 1rem; border: 1px solid #e5e7eb; border-radius: 8px; margin-bottom: 0.5rem;">
 <div style="font-weight: 600; font-size: 0.82rem;">⚠️ SLA 预警</div>
-<div style="font-size: 0.72rem; color: #888; margin-top: 0.2rem;">Dr. X 的 off-label 问题还没回复，已过 SLA</div>
+<div style="font-size: 0.72rem; color: #888; margin-top: 0.2rem;">Dr. X 的 off-label 问题还没回复,已过 SLA</div>
 </div>
 
 <div style="margin-top: 0.8rem; padding: 0.5rem 1rem; background: #f8fafc; border-radius: 6px; border: 1px solid #e5e7eb;">
-<span style="font-size: 0.8rem; color: #333;">MSL 出门前 5 分钟掌握全局，<strong style="color: #ef4444;">不用翻 10 个系统</strong></span>
+<span style="font-size: 0.8rem; color: #333;">MSL 出门前 5 分钟掌握全局,<strong style="color: #ef4444;">不用翻 10 个系统</strong></span>
 </div>
 
 </div>
@@ -400,7 +400,7 @@ PPT · 日历 · 代码审查<br/>
 
 # 👥 Team Lead 使用 · 医学审核
 
-<div style="font-size: 0.85rem; color: #666; margin: 0.3rem 0 1rem;">Medical Director 审批材料时，数字员工先帮你做完机械性核查。</div>
+<div style="font-size: 0.85rem; color: #666; margin: 0.3rem 0 1rem;">Medical Director 审批材料时,数字员工先帮你做完机械性核查。</div>
 
 <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 1.5rem;">
 
@@ -429,7 +429,7 @@ PPT · 日历 · 代码审查<br/>
 <div style="font-size: 0.78rem; color: #333; font-weight: 500;">自动提取所有 claims</div>
 </div>
 <div style="padding: 0.5rem 0.7rem; border-left: 3px solid #16a34a; margin-bottom: 0.4rem;">
-<div style="font-size: 0.78rem; color: #333; font-weight: 500;">对照文献：✅准确 ⚠️不匹配 ❌过期</div>
+<div style="font-size: 0.78rem; color: #333; font-weight: 500;">对照文献:✅准确 ⚠️不匹配 ❌过期</div>
 </div>
 <div style="padding: 0.5rem 0.7rem; border-left: 3px solid #16a34a;">
 <div style="font-size: 0.78rem; color: #333; font-weight: 500;">你只需关注标红的部分</div>
@@ -439,7 +439,7 @@ PPT · 日历 · 代码审查<br/>
 </div>
 
 <div style="margin-top: 0.8rem; padding: 0.5rem 1rem; background: #f8fafc; border-radius: 6px; border: 1px solid #e5e7eb;">
-<span style="font-size: 0.8rem; color: #333;">不是替你做医学判断，是帮你把<strong style="color: #ef4444;">半天的活压缩到半小时</strong></span>
+<span style="font-size: 0.8rem; color: #333;">不是替你做医学判断,是帮你把<strong style="color: #ef4444;">半天的活压缩到半小时</strong></span>
 </div>
 
 </div>
@@ -458,7 +458,7 @@ PPT · 日历 · 代码审查<br/>
 
 # 👥 Team Lead 使用 · Advisory Board 报告
 
-<div style="font-size: 0.85rem; color: #666; margin: 0.3rem 0 1rem;">一场 2 小时的会，报告不再需要写 1-2 周。数字员工写初稿，你做判断。</div>
+<div style="font-size: 0.85rem; color: #666; margin: 0.3rem 0 1rem;">一场 2 小时的会,报告不再需要写 1-2 周。数字员工写初稿,你做判断。</div>
 
 <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 1.5rem;">
 
@@ -503,7 +503,7 @@ PPT · 日历 · 代码审查<br/>
 </div>
 
 <div style="margin-top: 0.8rem; padding: 0.5rem 1rem; background: #f8fafc; border-radius: 6px; border: 1px solid #e5e7eb;">
-<span style="font-size: 0.8rem; color: #333;"><strong style="color: #ef4444;">1-2 周压缩到 1-2 天</strong> — 数字员工写初稿，你做判断</span>
+<span style="font-size: 0.8rem; color: #333;"><strong style="color: #ef4444;">1-2 周压缩到 1-2 天</strong> - 数字员工写初稿,你做判断</span>
 </div>
 
 </div>
@@ -522,7 +522,7 @@ PPT · 日历 · 代码审查<br/>
 
 # 🏢 团队使用 · Medical Information 响应
 
-<div style="font-size: 0.85rem; color: #666; margin: 0.3rem 0 1rem;">整个团队共用一个数字员工，任何人 @它 就能从已审批知识库中获取合规答案。</div>
+<div style="font-size: 0.85rem; color: #666; margin: 0.3rem 0 1rem;">整个团队共用一个数字员工,任何人 @它 就能从已审批知识库中获取合规答案。</div>
 
 <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 1.5rem;">
 
@@ -557,17 +557,17 @@ PPT · 日历 · 代码审查<br/>
 <div style="font-size: 0.78rem; color: #333; font-weight: 500;">从内部 Q&A 知识库匹配</div>
 </div>
 <div style="padding: 0.5rem 0.7rem; border-left: 3px solid #16a34a; margin-bottom: 0.4rem;">
-<div style="font-size: 0.78rem; color: #333; font-weight: 500;">生成合规回复草稿，附原文引用</div>
+<div style="font-size: 0.78rem; color: #333; font-weight: 500;">生成合规回复草稿,附原文引用</div>
 </div>
 <div style="padding: 0.5rem 0.7rem; border-left: 3px solid #16a34a;">
-<div style="font-size: 0.78rem; color: #333; font-weight: 500;">不编造、不推断 — 只从已审批信息找</div>
+<div style="font-size: 0.78rem; color: #333; font-weight: 500;">不编造、不推断 - 只从已审批信息找</div>
 </div>
 </div>
 
 </div>
 
 <div style="margin-top: 0.8rem; padding: 0.5rem 1rem; background: #f8fafc; border-radius: 6px; border: 1px solid #e5e7eb;">
-<span style="font-size: 0.8rem; color: #333;">不是让 AI 回答医学问题，是从<strong style="color: #ef4444;">正确的地方找到正确的答案</strong></span>
+<span style="font-size: 0.8rem; color: #333;">不是让 AI 回答医学问题,是从<strong style="color: #ef4444;">正确的地方找到正确的答案</strong></span>
 </div>
 
 </div>
@@ -586,7 +586,7 @@ PPT · 日历 · 代码审查<br/>
 
 # 架构一览
 
-<div style="font-size: 0.9rem; color: #666; margin: 0.2rem 0 0.8rem;">一个常驻的服务，连接你的消息平台、AI 大脑和各种工具。</div>
+<div style="font-size: 0.9rem; color: #666; margin: 0.2rem 0 0.8rem;">一个常驻的服务,连接你的消息平台、AI 大脑和各种工具。</div>
 
 <!-- 入口层 -->
 <div style="display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 0.5rem;">
@@ -596,9 +596,9 @@ PPT · 日历 · 代码审查<br/>
 <span style="font-size: 0.65rem; padding: 0.25rem 0.6rem; background: #f0f9ff; border: 1px solid #bae6fd; border-radius: 6px; color: #0369a1;">WhatsApp</span>
 <span style="font-size: 0.65rem; padding: 0.25rem 0.6rem; background: #f0f9ff; border: 1px solid #bae6fd; border-radius: 6px; color: #0369a1;">Telegram</span>
 <span style="font-size: 0.65rem; padding: 0.25rem 0.6rem; background: #f0f9ff; border: 1px solid #bae6fd; border-radius: 6px; color: #0369a1;">Web</span>
-<span style="font-size: 0.65rem; padding: 0.25rem 0.6rem; background: #f0f9ff; border: 1px solid #bae6fd; border-radius: 6px; color: #0369a1;">更多…</span>
+<span style="font-size: 0.65rem; padding: 0.25rem 0.6rem; background: #f0f9ff; border: 1px solid #bae6fd; border-radius: 6px; color: #0369a1;">更多...</span>
 </div>
-<div style="text-align: center; font-size: 0.65rem; color: #999; margin-bottom: 0.3rem;">消息入口 — 在你习惯的平台上对话</div>
+<div style="text-align: center; font-size: 0.65rem; color: #999; margin-bottom: 0.3rem;">消息入口 - 在你习惯的平台上对话</div>
 <div style="text-align: center; color: #ccc; font-size: 0.9rem;">↓</div>
 
 <!-- OpenClaw 核心 -->
@@ -639,11 +639,11 @@ PPT · 日历 · 代码审查<br/>
 <div style="padding: 0.6rem 0.8rem; background: #ecfdf5; border-radius: 8px; border: 1px solid #a7f3d0;">
 <div style="font-weight: 700; font-size: 0.8rem; text-align: center; margin-bottom: 0.4rem;">🛠️ 医学场景集成</div>
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.25rem;">
-<div style="font-size: 0.58rem; padding: 0.2rem 0.4rem; background: #d1fae5; border-radius: 3px; color: #065f46;">📄 医学文献库（PubMed）</div>
-<div style="font-size: 0.58rem; padding: 0.2rem 0.4rem; background: #d1fae5; border-radius: 3px; color: #065f46;">📋 产品信息（PI / SmPC）</div>
+<div style="font-size: 0.58rem; padding: 0.2rem 0.4rem; background: #d1fae5; border-radius: 3px; color: #065f46;">📄 医学文献库(PubMed)</div>
+<div style="font-size: 0.58rem; padding: 0.2rem 0.4rem; background: #d1fae5; border-radius: 3px; color: #065f46;">📋 产品信息(PI / SmPC)</div>
 <div style="font-size: 0.58rem; padding: 0.2rem 0.4rem; background: #d1fae5; border-radius: 3px; color: #065f46;">🎙️ 会议录音转写</div>
 <div style="font-size: 0.58rem; padding: 0.2rem 0.4rem; background: #d1fae5; border-radius: 3px; color: #065f46;">📁 内部 SOP / Q&amp;A 知识库</div>
-<div style="font-size: 0.58rem; padding: 0.2rem 0.4rem; background: #d1fae5; border-radius: 3px; color: #065f46;">📝 监管文档（CSR 模板）</div>
+<div style="font-size: 0.58rem; padding: 0.2rem 0.4rem; background: #d1fae5; border-radius: 3px; color: #065f46;">📝 监管文档(CSR 模板)</div>
 <div style="font-size: 0.58rem; padding: 0.2rem 0.4rem; background: #d1fae5; border-radius: 3px; color: #065f46;">📅 日历 / OA 审批系统</div>
 </div>
 </div>
@@ -651,7 +651,7 @@ PPT · 日历 · 代码审查<br/>
 </div>
 
 <div style="text-align: center; margin-top: 0.5rem; padding: 0.4rem 1.2rem; background: #f8fafc; border-radius: 8px; border: 1px solid #e5e7eb;">
-<span style="font-size: 0.75rem; color: #475569;">不是「你问它才动」— 定时巡检 + 主动汇报，<strong>7×24 在线</strong></span>
+<span style="font-size: 0.75rem; color: #475569;">不是「你问它才动」- 定时巡检 + 主动汇报,<strong>7×24 在线</strong></span>
 </div>
 
 ---
@@ -663,29 +663,29 @@ PPT · 日历 · 代码审查<br/>
 <div>
 
 <div style="padding: 0.7rem 1rem; border: 1px solid #fecaca; border-radius: 10px; background: #fef2f2; margin-bottom: 0.7rem;">
-<div style="font-weight: 700; font-size: 0.85rem; color: #dc2626; margin-bottom: 0.3rem;">🚨 裸奔的龙虾有多危险？</div>
+<div style="font-weight: 700; font-size: 0.85rem; color: #dc2626; margin-bottom: 0.3rem;">🚨 裸奔的龙虾有多危险?</div>
 <div style="font-size: 1.8rem; font-weight: 800; color: #111; margin-bottom: 0.2rem;">250,586 <span style="font-size: 0.75rem; font-weight: 400; color: #666;">只龙虾暴露在公网</span></div>
-<div style="font-size: 0.65rem; color: #555; line-height: 1.6;">openclaw.allegro.earth 实时监控面板<br/>关联 APT 威胁组织：Lazarus、APT41、Salt Typhoon…<br/>大量实例存在已知 CVE 漏洞<br/>Gateway Token 泄露 = 完全控制你的 Agent</div>
+<div style="font-size: 0.65rem; color: #555; line-height: 1.6;">openclaw.allegro.earth 实时监控面板<br/>关联 APT 威胁组织:Lazarus、APT41、Salt Typhoon...<br/>大量实例存在已知 CVE 漏洞<br/>Gateway Token 泄露 = 完全控制你的 Agent</div>
 <div style="font-size: 0.65rem; color: #dc2626; font-weight: 600; margin-top: 0.3rem; line-height: 1.5;">龙虾有你的消息、文件、API Key、甚至设备控制权。<br/>暴露在公网 = 把家门钥匙挂在门外。</div>
 </div>
 
 <div style="padding: 0.5rem 0.8rem; border: 1px solid #e5e7eb; border-radius: 8px; margin-bottom: 0.5rem;">
-<div style="font-weight: 700; font-size: 0.85rem; color: #111;">✅ AWS 怎么解决？</div>
+<div style="font-weight: 700; font-size: 0.85rem; color: #111;">✅ AWS 怎么解决?</div>
 </div>
 
 <div style="padding: 0.45rem 0.8rem; border-left: 3px solid #3b82f6; margin-bottom: 0.4rem;">
-<div style="font-size: 0.75rem; font-weight: 600; color: #333;">🔑 零 API Key — IAM Role 认证</div>
-<div style="font-size: 0.63rem; color: #666;">Bedrock 通过 IAM Role 自动认证，实例上没有任何 API Key 文件。<br/>即使被入侵，攻击者拿不到可泄露的密钥。</div>
+<div style="font-size: 0.75rem; font-weight: 600; color: #333;">🔑 零 API Key - IAM Role 认证</div>
+<div style="font-size: 0.63rem; color: #666;">Bedrock 通过 IAM Role 自动认证,实例上没有任何 API Key 文件。<br/>即使被入侵,攻击者拿不到可泄露的密钥。</div>
 </div>
 
 <div style="padding: 0.45rem 0.8rem; border-left: 3px solid #8b5cf6; margin-bottom: 0.4rem;">
-<div style="font-size: 0.75rem; font-weight: 600; color: #333;">🌐 零公网端口 — SSM Session Manager</div>
-<div style="font-size: 0.63rem; color: #666;">通过 SSM 访问 OpenClaw 后台，不开放任何公网端口。<br/>Gateway 18789 端口不暴露到互联网，扫描器找不到你。</div>
+<div style="font-size: 0.75rem; font-weight: 600; color: #333;">🌐 零公网端口 - SSM Session Manager</div>
+<div style="font-size: 0.63rem; color: #666;">通过 SSM 访问 OpenClaw 后台,不开放任何公网端口。<br/>Gateway 18789 端口不暴露到互联网,扫描器找不到你。</div>
 </div>
 
 <div style="padding: 0.45rem 0.8rem; border-left: 3px solid #10b981;">
 <div style="font-size: 0.75rem; font-weight: 600; color: #333;">🔒 VPC 私有网络 + CloudTrail 审计</div>
-<div style="font-size: 0.63rem; color: #666;">VPC Endpoints 让 Bedrock API 调用走 AWS 内网，数据不经过公网。<br/>CloudTrail 自动记录每个 API 调用，合规可追溯。</div>
+<div style="font-size: 0.63rem; color: #666;">VPC Endpoints 让 Bedrock API 调用走 AWS 内网,数据不经过公网。<br/>CloudTrail 自动记录每个 API 调用,合规可追溯。</div>
 </div>
 
 </div>
@@ -701,7 +701,7 @@ PPT · 日历 · 代码审查<br/>
 
 ---
 
-# 数据安全：不出境，可审计
+# 数据安全:不出境,可审计
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 2rem; margin-top: 2rem;">
 
@@ -764,85 +764,14 @@ Production-ready<br/>
 
 ---
 
-# 关键要点
+<div style="display: flex; align-items: center; justify-content: center; height: 80%;">
+<div style="max-width: 640px; width: 100%;">
 
-<div style="display: flex; align-items: center; justify-content: center; height: 60%;">
-<div style="max-width: 700px;">
-
-<div style="font-size: 1.6rem; font-weight: 300; line-height: 1.6; color: #333; text-align: center;">
-数字员工不替你思考<br/>
-但能帮你<strong style="color: #ef4444;">腾出时间去思考</strong>
-</div>
-
-<div style="display: flex; justify-content: center; gap: 3rem; margin-top: 3rem;">
-<div style="text-align: center;">
-<div style="font-size: 1.8rem; font-weight: 700; color: #000;">开源</div>
-<div style="font-size: 0.8rem; color: #999;">透明可审计</div>
-</div>
-<div style="text-align: center;">
-<div style="font-size: 1.8rem; font-weight: 700; color: #000;">安全</div>
-<div style="font-size: 0.8rem; color: #999;">数据不出境</div>
-</div>
-<div style="text-align: center;">
-<div style="font-size: 1.8rem; font-weight: 700; color: #000;">实用</div>
-<div style="font-size: 0.8rem; color: #999;">生产级部署</div>
-</div>
-</div>
-
-</div>
-</div>
-
----
-
-<div style="display: flex; align-items: center; justify-content: center; height: 85%;">
-<div style="max-width: 780px;">
-
-<div style="text-align: center; margin-bottom: 2rem;">
-<div style="font-size: 3rem; margin-bottom: 0.5rem;">🦞</div>
-<div style="font-size: 1.1rem; color: #999; letter-spacing: 0.12em; text-transform: uppercase;">How OpenClaw Is Redefining AI</div>
-<div style="font-size: 1.8rem; font-weight: 300; color: #333; margin-top: 0.3rem;">OpenClaw 如何重塑 AI 生产力</div>
-</div>
-
-<div style="display: flex; flex-direction: column; gap: 0.6rem; margin-bottom: 1.5rem;">
-
-<div style="padding: 0.6rem 1rem; background: #f8fafc; border-left: 3px solid #ef4444; border-radius: 0 8px 8px 0;">
-<div style="font-size: 0.82rem; color: #333; font-style: italic;">“Definitely the next ChatGPT.”</div>
-<div style="font-size: 0.65rem; color: #999; margin-top: 0.2rem;">Jensen Huang, CEO of Nvidia — CNBC, 2026.03</div>
-</div>
-
-<div style="padding: 0.6rem 1rem; background: #f8fafc; border-left: 3px solid #3b82f6; border-radius: 0 8px 8px 0;">
-<div style="font-size: 0.82rem; color: #333; font-style: italic;">“OpenClaw abandons the shallow paradigm of chat and content generation, and instead builds a full autonomous execution loop.”</div>
-<div style="font-size: 0.65rem; color: #999; margin-top: 0.2rem;">CEIBS 中欧国际工商学院, 2026.04</div>
-</div>
-
-<div style="padding: 0.6rem 1rem; background: #f8fafc; border-left: 3px solid #10b981; border-radius: 0 8px 8px 0;">
-<div style="font-size: 0.82rem; color: #333; font-style: italic;">“This loose, open-source layer can be incredibly powerful if it has full system access.”</div>
-<div style="font-size: 0.65rem; color: #999; margin-top: 0.2rem;">IBM Research — IBM Think, 2026.02</div>
-</div>
-
-</div>
-
-<div style="text-align: center;">
-<div style="display: flex; justify-content: center; gap: 2rem; margin-bottom: 1.5rem;">
-<div style="text-align: center;">
-<div style="font-size: 1.5rem; font-weight: 700; color: #111;">150K+</div>
-<div style="font-size: 0.65rem; color: #999;">GitHub Stars</div>
-</div>
-<div style="text-align: center;">
-<div style="font-size: 1.5rem; font-weight: 700; color: #111;">Open Source</div>
-<div style="font-size: 0.65rem; color: #999;">透明可审计</div>
-</div>
-<div style="text-align: center;">
-<div style="font-size: 1.5rem; font-weight: 700; color: #111;">Self-Hosted</div>
-<div style="font-size: 0.65rem; color: #999;">数据不出境</div>
-</div>
-</div>
-
-<div style="font-size: 0.85rem; color: #999;">
-Speaker · Solutions Architect · AWS<br/>
-Thank you 🙏
-</div>
-</div>
+<CardGrid :columns="1" variant="summary">
+  <SummaryCard number="🧠" title="AI 已经从「能聊天」进化到「能干活」" description="不是更聪明的搜索框，是能规划、执行、迭代的数字同事" color="#3b82f6" />
+  <SummaryCard number="🏥" title="医学事务的重复性工作，AI 已经能接手" description="晨间简报、医学审核、会议报告、合规检索 — 从 POC 到生产只差一步" color="#8b5cf6" />
+  <SummaryCard number="🔒" title="安全是第一要义" description="AWS 提供从网络隔离到数据加密的全面安全部署架构，合规可审计" color="#10b981" />
+</CardGrid>
 
 </div>
 </div>
