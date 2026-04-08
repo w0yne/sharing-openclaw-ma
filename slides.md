@@ -658,33 +658,34 @@ PPT · 日历 · 代码审查<br/>
 
 # OpenClaw 的安全性
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-top: 0.5rem;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-top: 0.3rem;">
 
 <div>
 
-<div style="padding: 1rem 1.2rem; border: 1px solid #fecaca; border-radius: 10px; background: #fef2f2; margin-bottom: 1rem;">
-<div style="font-weight: 700; font-size: 0.9rem; color: #dc2626; margin-bottom: 0.5rem;">🚨 裸奠的龙虾有多危险？</div>
-<div style="font-size: 2rem; font-weight: 800; color: #111; margin-bottom: 0.3rem;">250,586 <span style="font-size: 0.8rem; font-weight: 400; color: #666;">只龙虾暴露在公网</span></div>
-<div style="font-size: 0.7rem; color: #555; line-height: 1.7;">实时监控面板显示的真实数据<br/>关联 APT 威胁组织：Lazarus、APT41、Salt Typhoon…<br/>Gateway Token 泄露 = 完全控制你的 Agent<br/>龙虾有你的消息、文件、API Key、甚至设备控制权<br/><strong>暴露在公网 = 把家门钥匙挂在门外</strong></div>
+<div style="padding: 0.7rem 1rem; border: 1px solid #fecaca; border-radius: 10px; background: #fef2f2; margin-bottom: 0.7rem;">
+<div style="font-weight: 700; font-size: 0.85rem; color: #dc2626; margin-bottom: 0.3rem;">🚨 裸奠的龙虾有多危险？</div>
+<div style="font-size: 1.8rem; font-weight: 800; color: #111; margin-bottom: 0.2rem;">250,586 <span style="font-size: 0.75rem; font-weight: 400; color: #666;">只龙虾暴露在公网</span></div>
+<div style="font-size: 0.65rem; color: #555; line-height: 1.6;">openclaw.allegro.earth 实时监控面板<br/>关联 APT 威胁组织：Lazarus、APT41、Salt Typhoon…<br/>大量实例存在已知 CVE 漏洞<br/>Gateway Token 泄露 = 完全控制你的 Agent</div>
+<div style="font-size: 0.65rem; color: #dc2626; font-weight: 600; margin-top: 0.3rem; line-height: 1.5;">龙虾有你的消息、文件、API Key、甚至设备控制权。<br/>暴露在公网 = 把家门钥匙挂在门外。</div>
 </div>
 
-<div style="padding: 0.8rem 1rem; border: 1px solid #e5e7eb; border-radius: 8px; margin-bottom: 0.6rem;">
+<div style="padding: 0.5rem 0.8rem; border: 1px solid #e5e7eb; border-radius: 8px; margin-bottom: 0.5rem;">
 <div style="font-weight: 700; font-size: 0.85rem; color: #111;">✅ AWS 怎么解决？</div>
 </div>
 
-<div style="padding: 0.6rem 1rem; border-left: 3px solid #3b82f6; margin-bottom: 0.5rem;">
-<div style="font-size: 0.8rem; font-weight: 600; color: #333;">🔐 API Key — IAM Role 认证</div>
-<div style="font-size: 0.68rem; color: #666;">Bedrock 通过 IAM Role 自动认证，实例上没有任何 API Key 文件。即便被入侵，攻击者拿不到可泄露的凭证。</div>
+<div style="padding: 0.45rem 0.8rem; border-left: 3px solid #3b82f6; margin-bottom: 0.4rem;">
+<div style="font-size: 0.75rem; font-weight: 600; color: #333;">🔑 零 API Key — IAM Role 认证</div>
+<div style="font-size: 0.63rem; color: #666;">Bedrock 通过 IAM Role 自动认证，实例上没有任何 API Key 文件。<br/>即使被入侵，攻击者拿不到可泄露的密钥。</div>
 </div>
 
-<div style="padding: 0.6rem 1rem; border-left: 3px solid #8b5cf6; margin-bottom: 0.5rem;">
-<div style="font-size: 0.8rem; font-weight: 600; color: #333;">🔒 零公网端口 — SSM Session Manager</div>
-<div style="font-size: 0.68rem; color: #666;">通过 SSM 访问 OpenClaw 后台，不开放任何公网端口。Gateway 18789 端口不暴露到互联网，扫描器找不到你。</div>
+<div style="padding: 0.45rem 0.8rem; border-left: 3px solid #8b5cf6; margin-bottom: 0.4rem;">
+<div style="font-size: 0.75rem; font-weight: 600; color: #333;">🌐 零公网端口 — SSM Session Manager</div>
+<div style="font-size: 0.63rem; color: #666;">通过 SSM 访问 OpenClaw 后台，不开放任何公网端口。<br/>Gateway 18789 端口不暴露到互联网，扫描器找不到你。</div>
 </div>
 
-<div style="padding: 0.6rem 1rem; border-left: 3px solid #10b981;">
-<div style="font-size: 0.8rem; font-weight: 600; color: #333;">🏠 VPC 私有网络 + CloudTrail 审计</div>
-<div style="font-size: 0.68rem; color: #666;">VPC Endpoints 让 Bedrock API 调用走 AWS 内网，数据不经过公网。CloudTrail 自动记录每个 API 调用，合规可追溯。</div>
+<div style="padding: 0.45rem 0.8rem; border-left: 3px solid #10b981;">
+<div style="font-size: 0.75rem; font-weight: 600; color: #333;">🔒 VPC 私有网络 + CloudTrail 审计</div>
+<div style="font-size: 0.63rem; color: #666;">VPC Endpoints 让 Bedrock API 调用走 AWS 内网，数据不经过公网。<br/>CloudTrail 自动记录每个 API 调用，合规可追溯。</div>
 </div>
 
 </div>
