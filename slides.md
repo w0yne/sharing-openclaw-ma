@@ -764,14 +764,34 @@ Production-ready<br/>
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: center; height: 80%;">
-<div style="max-width: 640px; width: 100%;">
+# 回顾
 
-<CardGrid :columns="1" variant="summary">
-  <SummaryCard number="🧠" title="AI 已经从「能聊天」进化到「能干活」" description="不是更聪明的搜索框，是能规划、执行、迭代的数字同事" color="#3b82f6" />
-  <SummaryCard number="🏥" title="医学事务的重复性工作，AI 已经能接手" description="晨间简报、医学审核、会议报告、合规检索 — 从 POC 到生产只差一步" color="#8b5cf6" />
-  <SummaryCard number="🔒" title="安全是第一要义" description="AWS 提供从网络隔离到数据加密的全面安全部署架构，合规可审计" color="#10b981" />
-</CardGrid>
+<div style="display: flex; align-items: center; justify-content: center; height: 72%;">
+<div style="max-width: 680px; width: 100%; display: flex; flex-direction: column; gap: 1.5rem;">
+
+<div style="display: flex; align-items: flex-start; gap: 1.2rem; padding: 1.2rem 1.5rem; border-left: 4px solid #3b82f6; background: #f8fafc; border-radius: 0 10px 10px 0;">
+<div style="font-size: 1.8rem; line-height: 1;">🧠</div>
+<div>
+<div style="font-size: 1.05rem; font-weight: 700; color: #111;">AI 已经从「能聊天」进化到「能干活」</div>
+<div style="font-size: 0.78rem; color: #666; margin-top: 0.3rem;">不是更聪明的搜索框，是能规划、执行、迭代的数字同事</div>
+</div>
+</div>
+
+<div style="display: flex; align-items: flex-start; gap: 1.2rem; padding: 1.2rem 1.5rem; border-left: 4px solid #8b5cf6; background: #f8fafc; border-radius: 0 10px 10px 0;">
+<div style="font-size: 1.8rem; line-height: 1;">🏥</div>
+<div>
+<div style="font-size: 1.05rem; font-weight: 700; color: #111;">医学事务的重复性工作，AI 已经能接手</div>
+<div style="font-size: 0.78rem; color: #666; margin-top: 0.3rem;">晨间简报、医学审核、会议报告、合规检索</div>
+</div>
+</div>
+
+<div style="display: flex; align-items: flex-start; gap: 1.2rem; padding: 1.2rem 1.5rem; border-left: 4px solid #10b981; background: #f8fafc; border-radius: 0 10px 10px 0;">
+<div style="font-size: 1.8rem; line-height: 1;">🔒</div>
+<div>
+<div style="font-size: 1.05rem; font-weight: 700; color: #111;">安全是第一要义</div>
+<div style="font-size: 0.78rem; color: #666; margin-top: 0.3rem;">AWS 提供从网络隔离到数据加密的全面安全部署架构，合规可审计</div>
+</div>
+</div>
 
 </div>
 </div>
