@@ -794,22 +794,32 @@ Production-ready<br/>
 ---
 
 <div style="display: flex; align-items: center; justify-content: center; height: 80%;">
-<div style="text-align: center; max-width: 700px;">
+<div style="text-align: center; max-width: 750px;">
 
-<div style="font-size: 3rem; margin-bottom: 1.5rem;">🦞</div>
+<div style="font-size: 3.5rem; margin-bottom: 1rem;">🦞</div>
 
-<div style="font-size: 1.8rem; font-weight: 300; color: #333; line-height: 1.6;">
-接下来<br/>
-让我们实际看看它能做什么
+<div style="font-size: 1.1rem; color: #999; letter-spacing: 0.15em; text-transform: uppercase; margin-bottom: 0.8rem;">How OpenClaw Is Redefining AI</div>
+
+<div style="font-size: 2rem; font-weight: 300; color: #333; line-height: 1.6;">
+OpenClaw 如何重塑 AI 生产力
 </div>
 
-<div style="margin-top: 2rem; padding: 1rem 2rem; background: #111; border-radius: 10px; display: inline-block;">
-<span style="font-size: 1.2rem; color: #fff; font-weight: 600;">Clash of Claws · 虾路相逢</span>
+<div style="margin-top: 1.5rem; font-size: 1.05rem; color: #555; line-height: 1.8;">
+从<strong style="color: #999; text-decoration: line-through;">不需要你大脑、但必须你动手</strong><br/>到 <strong style="color: #ef4444;">不需要你动手、但你保留大脑</strong>
 </div>
 
-<div style="margin-top: 2rem; font-size: 0.85rem; color: #999;">
+<div style="display: flex; justify-content: center; gap: 1.5rem; margin-top: 2rem;">
+<span style="font-size: 0.8rem; padding: 0.3rem 0.8rem; background: #f8fafc; border: 1px solid #e5e7eb; border-radius: 6px; color: #666;">Open Source</span>
+<span style="font-size: 0.8rem; padding: 0.3rem 0.8rem; background: #f8fafc; border: 1px solid #e5e7eb; border-radius: 6px; color: #666;">Self-Hosted</span>
+<span style="font-size: 0.8rem; padding: 0.3rem 0.8rem; background: #f8fafc; border: 1px solid #e5e7eb; border-radius: 6px; color: #666;">Enterprise-Ready</span>
+</div>
+
+<div style="margin-top: 2.5rem; font-size: 0.85rem; color: #999;">
 Speaker · Solutions Architect · AWS<br/>
 Thank you 🙏
+</div>
+
+</div>
 </div>
 
 </div>
