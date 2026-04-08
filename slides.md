@@ -663,7 +663,7 @@ PPT · 日历 · 代码审查<br/>
 <div>
 
 <div style="padding: 0.7rem 1rem; border: 1px solid #fecaca; border-radius: 10px; background: #fef2f2; margin-bottom: 0.7rem;">
-<div style="font-weight: 700; font-size: 0.85rem; color: #dc2626; margin-bottom: 0.3rem;">🚨 裸奠的龙虾有多危险？</div>
+<div style="font-weight: 700; font-size: 0.85rem; color: #dc2626; margin-bottom: 0.3rem;">🚨 裸奔的龙虾有多危险？</div>
 <div style="font-size: 1.8rem; font-weight: 800; color: #111; margin-bottom: 0.2rem;">250,586 <span style="font-size: 0.75rem; font-weight: 400; color: #666;">只龙虾暴露在公网</span></div>
 <div style="font-size: 0.65rem; color: #555; line-height: 1.6;">openclaw.allegro.earth 实时监控面板<br/>关联 APT 威胁组织：Lazarus、APT41、Salt Typhoon…<br/>大量实例存在已知 CVE 漏洞<br/>Gateway Token 泄露 = 完全控制你的 Agent</div>
 <div style="font-size: 0.65rem; color: #dc2626; font-weight: 600; margin-top: 0.3rem; line-height: 1.5;">龙虾有你的消息、文件、API Key、甚至设备控制权。<br/>暴露在公网 = 把家门钥匙挂在门外。</div>
