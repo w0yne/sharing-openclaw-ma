@@ -794,30 +794,54 @@ Production-ready<br/>
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: center; height: 80%;">
-<div style="text-align: center; max-width: 750px;">
+<div style="display: flex; align-items: center; justify-content: center; height: 85%;">
+<div style="max-width: 780px;">
 
-<div style="font-size: 3.5rem; margin-bottom: 1rem;">🦞</div>
-
-<div style="font-size: 1.1rem; color: #999; letter-spacing: 0.15em; text-transform: uppercase; margin-bottom: 0.8rem;">How OpenClaw Is Redefining AI</div>
-
-<div style="font-size: 2rem; font-weight: 300; color: #333; line-height: 1.6;">
-OpenClaw 如何重塑 AI 生产力
+<div style="text-align: center; margin-bottom: 2rem;">
+<div style="font-size: 3rem; margin-bottom: 0.5rem;">🦞</div>
+<div style="font-size: 1.1rem; color: #999; letter-spacing: 0.12em; text-transform: uppercase;">How OpenClaw Is Redefining AI</div>
+<div style="font-size: 1.8rem; font-weight: 300; color: #333; margin-top: 0.3rem;">OpenClaw 如何重塑 AI 生产力</div>
 </div>
 
-<div style="margin-top: 1.5rem; font-size: 1.05rem; color: #555; line-height: 1.8;">
-从<strong style="color: #999; text-decoration: line-through;">不需要你大脑、但必须你动手</strong><br/>到 <strong style="color: #ef4444;">不需要你动手、但你保留大脑</strong>
+<div style="display: flex; flex-direction: column; gap: 0.6rem; margin-bottom: 1.5rem;">
+
+<div style="padding: 0.6rem 1rem; background: #f8fafc; border-left: 3px solid #ef4444; border-radius: 0 8px 8px 0;">
+<div style="font-size: 0.82rem; color: #333; font-style: italic;">“Definitely the next ChatGPT.”</div>
+<div style="font-size: 0.65rem; color: #999; margin-top: 0.2rem;">Jensen Huang, CEO of Nvidia — CNBC, 2026.03</div>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 1.5rem; margin-top: 2rem;">
-<span style="font-size: 0.8rem; padding: 0.3rem 0.8rem; background: #f8fafc; border: 1px solid #e5e7eb; border-radius: 6px; color: #666;">Open Source</span>
-<span style="font-size: 0.8rem; padding: 0.3rem 0.8rem; background: #f8fafc; border: 1px solid #e5e7eb; border-radius: 6px; color: #666;">Self-Hosted</span>
-<span style="font-size: 0.8rem; padding: 0.3rem 0.8rem; background: #f8fafc; border: 1px solid #e5e7eb; border-radius: 6px; color: #666;">Enterprise-Ready</span>
+<div style="padding: 0.6rem 1rem; background: #f8fafc; border-left: 3px solid #3b82f6; border-radius: 0 8px 8px 0;">
+<div style="font-size: 0.82rem; color: #333; font-style: italic;">“OpenClaw abandons the shallow paradigm of chat and content generation, and instead builds a full autonomous execution loop.”</div>
+<div style="font-size: 0.65rem; color: #999; margin-top: 0.2rem;">CEIBS 中欧国际工商学院, 2026.04</div>
 </div>
 
-<div style="margin-top: 2.5rem; font-size: 0.85rem; color: #999;">
+<div style="padding: 0.6rem 1rem; background: #f8fafc; border-left: 3px solid #10b981; border-radius: 0 8px 8px 0;">
+<div style="font-size: 0.82rem; color: #333; font-style: italic;">“This loose, open-source layer can be incredibly powerful if it has full system access.”</div>
+<div style="font-size: 0.65rem; color: #999; margin-top: 0.2rem;">IBM Research — IBM Think, 2026.02</div>
+</div>
+
+</div>
+
+<div style="text-align: center;">
+<div style="display: flex; justify-content: center; gap: 2rem; margin-bottom: 1.5rem;">
+<div style="text-align: center;">
+<div style="font-size: 1.5rem; font-weight: 700; color: #111;">150K+</div>
+<div style="font-size: 0.65rem; color: #999;">GitHub Stars</div>
+</div>
+<div style="text-align: center;">
+<div style="font-size: 1.5rem; font-weight: 700; color: #111;">Open Source</div>
+<div style="font-size: 0.65rem; color: #999;">透明可审计</div>
+</div>
+<div style="text-align: center;">
+<div style="font-size: 1.5rem; font-weight: 700; color: #111;">Self-Hosted</div>
+<div style="font-size: 0.65rem; color: #999;">数据不出境</div>
+</div>
+</div>
+
+<div style="font-size: 0.85rem; color: #999;">
 Speaker · Solutions Architect · AWS<br/>
 Thank you 🙏
+</div>
 </div>
 
 </div>
