@@ -321,39 +321,22 @@ PPT · 日历 · 代码审查<br/>
 
 # 在医学事务的日常工作中，它能做什么？
 
-<div style="font-size: 0.9rem; color: #666; margin: 0.3rem 0 1.5rem;">一天的工作，四个场景。</div>
+<div style="font-size: 0.9rem; color: #666; margin: 0.3rem 0 1rem;">一天的工作，四个场景。</div>
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
-
-<div style="padding: 1rem 1.2rem; border-left: 3px solid #3b82f6; background: #f8fafc; border-radius: 0 8px 8px 0;">
-<div style="font-size: 0.7rem; color: #3b82f6; font-weight: 600; margin-bottom: 0.3rem;">08:00 · 出门前</div>
-<div style="font-weight: 700; font-size: 0.95rem; margin-bottom: 0.3rem;">☁️ 晨间简报</div>
-<div style="font-size: 0.78rem; color: #555; line-height: 1.6;">日程、文献速递、待办提醒<br/>一条消息掌握全局，不用翻 10 个系统</div>
-</div>
-
-<div style="padding: 1rem 1.2rem; border-left: 3px solid #8b5cf6; background: #f8fafc; border-radius: 0 8px 8px 0;">
-<div style="font-size: 0.7rem; color: #8b5cf6; font-weight: 600; margin-bottom: 0.3rem;">10:00 · 市场部材料送审</div>
-<div style="font-weight: 700; font-size: 0.95rem; margin-bottom: 0.3rem;">🔍 医学审核</div>
-<div style="font-size: 0.78rem; color: #555; line-height: 1.6;">自动提取 claims，通过 PubMed 核实引用<br/>半天的活压缩到半小时</div>
-</div>
-
-<div style="padding: 1rem 1.2rem; border-left: 3px solid #f59e0b; background: #f8fafc; border-radius: 0 8px 8px 0;">
-<div style="font-size: 0.7rem; color: #f59e0b; font-weight: 600; margin-bottom: 0.3rem;">14:00 · Advisory Board 刚结束</div>
-<div style="font-weight: 700; font-size: 0.95rem; margin-bottom: 0.3rem;">📝 会议报告生成</div>
-<div style="font-size: 0.78rem; color: #555; line-height: 1.6;">录音转写 → KOL 观点归类 → 报告初稿<br/>1-2 周的工作压缩到 1-2 天</div>
-</div>
-
-<div style="padding: 1rem 1.2rem; border-left: 3px solid #10b981; background: #f8fafc; border-radius: 0 8px 8px 0;">
-<div style="font-size: 0.7rem; color: #10b981; font-weight: 600; margin-bottom: 0.3rem;">17:00 · 医生来电咨询</div>
-<div style="font-weight: 700; font-size: 0.95rem; margin-bottom: 0.3rem;">💊 Medical Information 响应</div>
-<div style="font-size: 0.78rem; color: #555; line-height: 1.6;">从已审批信息中检索，生成合规回复<br/>不编造、不推断，只从正确的地方找答案</div>
-</div>
-
-</div>
-
-<div style="text-align: center; margin-top: 1rem; padding: 0.5rem 1.5rem; background: #f8fafc; border-radius: 8px; border: 1px solid #e5e7eb;">
-<span style="font-size: 0.8rem; color: #475569;">数字员工不替你做医学判断，但能帮你<strong style="color: #ef4444;">腐出时间去判断</strong></span>
-</div>
+<ProcessChevrons
+  :steps="[
+    { label: '08:00', sublabel: '晨间简报', detail: '日程 + 文献 + 待办', color: '#3b82f6' },
+    { label: '10:00', sublabel: '医学审核', detail: 'Claims 核实', color: '#8b5cf6' },
+    { label: '14:00', sublabel: '报告生成', detail: 'KOL 观点归类', color: '#f59e0b' },
+    { label: '17:00', sublabel: 'Med Info', detail: '合规检索回复', color: '#10b981' },
+  ]"
+  :details="[
+    { borderColor: '#3b82f6', items: ['拉取日历、文献速递、SLA 预警', '一条消息掌握全局', '不用翻 10 个系统'] },
+    { borderColor: '#8b5cf6', items: ['自动提取文档中的 claims', 'PubMed 核实引用准确性', '半天的活压缩到半小时'] },
+    { borderColor: '#f59e0b', items: ['录音转写 → 主题归类', '提取每位 KOL 的 key insights', '1-2 周压缩到 1-2 天'] },
+    { borderColor: '#10b981', items: ['从 PI/SmPC 和知识库检索', '生成合规回复草稿', '不编造、只从审批信息找答案'] },
+  ]"
+/>
 
 ---
 
