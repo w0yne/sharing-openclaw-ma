@@ -338,6 +338,21 @@ PPT · 日历 · 代码审查<br/>
   ]"
 />
 
+<div style="display: flex; justify-content: center; gap: 2rem; margin-top: 1.5rem;">
+<div style="text-align: center; padding: 0.6rem 1.2rem; background: #eff6ff; border-radius: 8px;">
+<div style="font-size: 1.3rem; font-weight: 700; color: #3b82f6;">半天 → 30分钟</div>
+<div style="font-size: 0.65rem; color: #666; margin-top: 0.2rem;">医学审核</div>
+</div>
+<div style="text-align: center; padding: 0.6rem 1.2rem; background: #fefce8; border-radius: 8px;">
+<div style="font-size: 1.3rem; font-weight: 700; color: #f59e0b;">1-2周 → 1-2天</div>
+<div style="font-size: 0.65rem; color: #666; margin-top: 0.2rem;">Advisory Board 报告</div>
+</div>
+<div style="text-align: center; padding: 0.6rem 1.2rem; background: #ecfdf5; border-radius: 8px;">
+<div style="font-size: 1.3rem; font-weight: 700; color: #10b981;">48h → 分钟级</div>
+<div style="font-size: 0.65rem; color: #666; margin-top: 0.2rem;">Med Info 响应</div>
+</div>
+</div>
+
 ---
 
 # 👤 个人使用 · 你的 AI 贴身助手
